@@ -1,5 +1,7 @@
 ## @CoronaSurveys: Monitoring COVID-19 incidence via open polls
 
+https://augustogarcia.github.io/Coronasurveys-web/
+
 # Access to surveys
 
 [Please click here to access the survey for your country](https://github.com/GCGImdea/coronasurveys/blob/master/surveys.md)
