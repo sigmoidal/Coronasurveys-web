@@ -2,7 +2,7 @@
 
 # Access to surveys
 
-[Please click here to access the survey for your country] (https://github.com/GCGImdea/coronasurveys/blob/master/surveys.md)
+[Please click here to access the survey for your country](https://github.com/GCGImdea/coronasurveys/blob/master/surveys.md)
 
 # Results
 
