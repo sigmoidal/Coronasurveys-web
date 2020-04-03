@@ -14,5 +14,5 @@ https://augustogarcia.github.io/Coronasurveys-web/
 
 [Data for Cyprus](https://augustogarcia.github.io/Coronasurveys-web/results/cyprus)
 
-[Take the survey for Cyprus](cyprus.coronasurveys.com)
+[Take the survey for Cyprus](https://cyprus.coronasurveys.com)
 
