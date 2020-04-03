@@ -8,7 +8,7 @@
 
 # Cyprus
 
-![image](https://i.imgur.com/sqOreTl.png)
+![image](https://github.com/AugustoGarcia/Coronasurveys-web/blob/master/results/cyprus/numbers.png)
 
 [Data for Cyprus](https://augustogarcia.github.io/Coronasurveys-web/results/cyprus)
 
