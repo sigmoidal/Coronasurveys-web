@@ -8,9 +8,9 @@ https://augustogarcia.github.io/Coronasurveys-web/
 
 ## Results and Statistics
 
-## Cyprus
+# Cyprus
 
-# Official cases: 123456 Estimated: 123456 Deaths:1234567
+Official cases: 123456 Estimated: 123456 Deaths:1234567
 
 [Data for Cyprus](https://augustogarcia.github.io/Coronasurveys-web/results/cyprus)
 
