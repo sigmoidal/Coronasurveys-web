@@ -2,6 +2,10 @@
 
 https://augustogarcia.github.io/Coronasurveys-web/
 
+Lorem ipsum dolor sit amet.
+
+[Click me](http://www.google.com){: .btn}
+
 # Access to surveys
 
 [Please click here to access the survey for your country](https://github.com/GCGImdea/coronasurveys/blob/master/surveys.md)
