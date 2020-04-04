@@ -8,10 +8,6 @@ Lorem ipsum dolor sit amet.
 
 Lorem ipsum dolor sit amet.
 
-{% include button.html url="http://www.google.com" %}
-
-Lorem ipsum dolor sit amet.
-
 <button name="button" onclick="http://www.google.com">Click me</button>
 
 Lorem ipsum dolor sit amet.
