@@ -1,5 +1,7 @@
 ## @CoronaSurveys: Monitoring COVID-19 incidence via open polls
 
+https://augustogarcia.github.io/Coronasurveys-web/
+
 (Global plot goes here)
 
 ## Country-Specific Data
@@ -18,8 +20,6 @@
 [UK](https://augustogarcia.github.io/Coronasurveys-web/results/uk){: .btn}
 [USA](https://augustogarcia.github.io/Coronasurveys-web/results/usa){: .btn}
 [Japan](https://augustogarcia.github.io/Coronasurveys-web/results/japan){: .btn}
-
-https://augustogarcia.github.io/Coronasurveys-web/
 
 # Fill the survey!
 
