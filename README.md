@@ -4,7 +4,7 @@ https://augustogarcia.github.io/Coronasurveys-web/
 
 # Access to surveys
 
-<a href="{{ https://spain.coronasurveys.com }}" class="btn">Spain</a>
+<a href="{{https://spain.coronasurveys.com}}" class="btn">Spain</a>
 
 [Cyprus](https://cyprus.coronasurveys.com)
 
