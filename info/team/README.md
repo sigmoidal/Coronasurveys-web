@@ -1,6 +1,6 @@
 ## Researchers
 
-The study is conducted by a team led by the Research Professor Antonio Fernández Anta, and formed by a set of international researchers from multiple institutions:
+The study is conducted by a team led by the Research Professor Antonio Fernandez Anta, and formed by a set of international researchers from multiple institutions:
 
 Carlos Baquero, U. Minho & INESC TEC, Portugal
 Annette Bieniusa, U. Kaiserslautern, Germany
