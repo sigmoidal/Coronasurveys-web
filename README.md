@@ -4,8 +4,10 @@ https://augustogarcia.github.io/Coronasurveys-web/
 
 # Access to surveys
 
-[Spain](https://spain.coronasurveys.com){: .btn}
-[Cyprus](https://cyprus.coronasurveys.com){: .btn}
+[Spain](https://spain.coronasurveys.com){:.btn}
+
+[Cyprus](https://cyprus.coronasurveys.com){:.btn}
+
 <button name="Spain" onclick="https://spain.coronasurveys.com">Spain</button>
 
 [Please click here to access the survey for your country](https://github.com/GCGImdea/coronasurveys/blob/master/surveys.md)
