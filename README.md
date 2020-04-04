@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet.
 
 [Click me](http://www.google.com){: .btn}
 
-[Cyprus](https://cyprus.coronasurveys.com){class=btn}
+[Cyprus](https://cyprus.coronasurveys.com){class="btn"}
 
 
 # Access to surveys
