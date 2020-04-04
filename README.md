@@ -27,9 +27,9 @@ Country | Last Updated | Confirmed Cases | Estimated Cases
 Spain | 04/04/20 | 123 | 456
 
 ## About the Project
-[Publications](https://augustogarcia.github.io/Coronasurveys-web/info/publications
-[Team](https://augustogarcia.github.io/Coronasurveys-web/info/team
-[Contact](https://augustogarcia.github.io/Coronasurveys-web/info/contact
+[Publications](https://augustogarcia.github.io/Coronasurveys-web/info/publications){: .btn}
+[Team](https://augustogarcia.github.io/Coronasurveys-web/info/team){: .btn}
+[Contact](https://augustogarcia.github.io/Coronasurveys-web/info/contact){: .btn}
 
 The world is suffering from a pandemic called COVID-19, caused by the SARS-CoV-2 virus. The different national governments have problems evaluating the reach of the epidemic, having limited resources and tests to their disposal. Hence, any means to evaluate the number of persons with symptoms compatible with COVID-19 with reasonable level of accuracy is useful.
 
