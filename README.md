@@ -18,8 +18,9 @@ Lorem ipsum dolor sit amet.
 
 
 # Access to surveys
-
-<a href="{{https://spain.coronasurveys.com}}" class="btn">Spain</a>
+<div class="text-purple">
+  <a href="{{https://spain.coronasurveys.com}}" class="btn">Spain</a>
+</div>
 
 [Cyprus](https://cyprus.coronasurveys.com)
 
