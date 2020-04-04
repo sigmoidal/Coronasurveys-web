@@ -4,11 +4,8 @@ https://augustogarcia.github.io/Coronasurveys-web/
 
 # Access to surveys
 
-[Spain](https://spain.coronasurveys.com){:.btn}
-
-[Cyprus](https://cyprus.coronasurveys.com){:.btn}
-
-<button name="Spain" onclick="https://spain.coronasurveys.com">Spain</button>
+[Spain](https://spain.coronasurveys.com)
+[Cyprus](https://cyprus.coronasurveys.com)
 
 [Please click here to access the survey for your country](https://github.com/GCGImdea/coronasurveys/blob/master/surveys.md)
 
@@ -16,7 +13,7 @@ https://augustogarcia.github.io/Coronasurveys-web/
 
 Country | Last Updated | Confirmed Cases | Estimated Cases
 ------------ | -------------
-[Cyprus](Coronasurveys-web/results/cyprus) | 04/04/20 | 123 | 456
+[Cyprus](https://augustogarcia.github.io/Coronasurveys-web/results/cyprus) | 04/04/20 | 123 | 456
 Spain | 04/04/20 | 123 | 456
 
 # Cyprus
