@@ -1,6 +1,3 @@
-github:
-  is_project_page: false
-
 ## @CoronaSurveys: Monitoring COVID-19 incidence via open polls
 
 https://augustogarcia.github.io/Coronasurveys-web/
