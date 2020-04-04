@@ -12,7 +12,12 @@ https://augustogarcia.github.io/Coronasurveys-web/
 
 [Please click here to access the survey for your country](https://github.com/GCGImdea/coronasurveys/blob/master/surveys.md)
 
-## Results and Statistics
+## Results and Statistics (Click on the country to see expanded information)
+
+Country | Last Updated | Confirmed Cases | Estimated Cases
+------------ | -------------
+[Cyprus](https://augustogarcia.github.io/Coronasurveys-web/results/cyprus) | 04/04/20 | 123 | 456
+Spain | 04/04/20 | 123 | 456
 
 # Cyprus
 
