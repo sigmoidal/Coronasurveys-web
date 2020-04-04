@@ -1,5 +1,24 @@
 ## @CoronaSurveys: Monitoring COVID-19 incidence via open polls
 
+(Global plot goes here)
+
+## Country-Specific Data
+
+[Argentina](https://augustogarcia.github.io/Coronasurveys-web/results/argentina){: .btn}
+[Chile](https://augustogarcia.github.io/Coronasurveys-web/results/chile){: .btn}
+[Ecuador](https://augustogarcia.github.io/Coronasurveys-web/results/ecuador){: .btn}
+[Spain](https://augustogarcia.github.io/Coronasurveys-web/results/spain){: .btn}
+[Portugal](https://augustogarcia.github.io/Coronasurveys-web/results/portugal){: .btn}
+[Cyprus](https://augustogarcia.github.io/Coronasurveys-web/results/cyprus){: .btn}
+[France](https://augustogarcia.github.io/Coronasurveys-web/results/france){: .btn}
+[Germany](https://augustogarcia.github.io/Coronasurveys-web/results/germany){: .btn}
+[Greece](https://augustogarcia.github.io/Coronasurveys-web/results/greece){: .btn}
+[Italy](https://augustogarcia.github.io/Coronasurveys-web/results/italy){: .btn}
+[Netherlands](https://augustogarcia.github.io/Coronasurveys-web/results/netherlands){: .btn}
+[UK](https://augustogarcia.github.io/Coronasurveys-web/results/uk){: .btn}
+[USA](https://augustogarcia.github.io/Coronasurveys-web/results/usa){: .btn}
+[Japan](https://augustogarcia.github.io/Coronasurveys-web/results/japan){: .btn}
+
 https://augustogarcia.github.io/Coronasurveys-web/
 
 # Fill the survey!
@@ -51,7 +70,7 @@ The objective of this study is the collection and publication of data concerning
 
 Please complete one of our surveys! Choose your country of residence and tell us about the number of cases (suspected or confirmed) you know about. No personal information is stored in these surveys. Because each of us can provide information about the situation among our direct contacts, in aggregate we are able to get rough estimates of total cases.
 
-Please complete your country survey!! Because we are tracking the evolution of this epidemic over time, once you have completed the survey, please remember to come back and update the survey every day. And finally, you can help us by asking your friends, colleagues and relatives to complete the survey as well! Thank you!
+Because we are tracking the evolution of this epidemic over time, once you have completed the survey, please remember to come back and update the survey every day. And finally, you can help us by asking your friends, colleagues and relatives to complete the survey as well! Thank you!
 
 You can also follow us on social networks and share our work:
 
