@@ -2,7 +2,7 @@
 
 https://augustogarcia.github.io/Coronasurveys-web/
 
-<iframe src="https://covid19.algolysis.com/grafana/d/G_Aw4CrZk/coronasurveys?tab=visualization&panelId=18&edit&fullscreen&orgId=1&var-code=PT&var-country=Portugal&var-reach=150&var-population=1000000&from=1583441481390&to=1586033481391" width="650" height="600" frameborder="0"></iframe>
+<iframe src="https://covid19.algolysis.com/grafana/d/G_Aw4CrZk/coronasurveys?tab=visualization&panelId=18&edit&fullscreen&orgId=1&var-code=PT&var-country=Portugal&var-reach=150&var-population=1000000&from=1583441481390&to=1586033481391" width="800" height="600" frameborder="0"></iframe>
 
 ## Country-Specific Data
 
