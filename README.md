@@ -12,12 +12,14 @@ Lorem ipsum dolor sit amet.
 
 Lorem ipsum dolor sit amet.
 
-[Click me](http://www.google.com){: .btn}
+
 
 [Cyprus](https://cyprus.coronasurveys.com){class="btn"}
 
 
 # Access to surveys
+
+[Spain](http://spain.coronasurveys.com){: .btn}
 
 <a href="{{https://spain.coronasurveys.com}}" class="btn">Spain</a>
 
