@@ -2,7 +2,7 @@
 
 https://augustogarcia.github.io/Coronasurveys-web/
 
-# Access to surveys
+# Fill the survey!
 
 [Argentina](https://tinyurl.com/coronasurveysargentina){: .btn}
 [Chile](https://tinyurl.com/coronasurveyschile){: .btn}
@@ -23,8 +23,20 @@ https://augustogarcia.github.io/Coronasurveys-web/
 
 Country | Last Updated | Confirmed Cases | Estimated Cases
 ------------ | -------------
+[Argentina](https://augustogarcia.github.io/Coronasurveys-web/results/argentina) | 04/04/20 | 123 | 456
+[Chile](https://augustogarcia.github.io/Coronasurveys-web/results/chile) | 04/04/20 | 123 | 456
+[Ecuador](https://augustogarcia.github.io/Coronasurveys-web/results/ecuador) | 04/04/20 | 123 | 456
+[Spain](https://augustogarcia.github.io/Coronasurveys-web/results/spain) | 04/04/20 | 123 | 456
+[Portugal](https://augustogarcia.github.io/Coronasurveys-web/results/portugal) | 04/04/20 | 123 | 456
 [Cyprus](https://augustogarcia.github.io/Coronasurveys-web/results/cyprus) | 04/04/20 | 123 | 456
-Spain | 04/04/20 | 123 | 456
+[France](https://augustogarcia.github.io/Coronasurveys-web/results/france) | 04/04/20 | 123 | 456
+[Germany](https://augustogarcia.github.io/Coronasurveys-web/results/germany) | 04/04/20 | 123 | 456
+[Greece](https://augustogarcia.github.io/Coronasurveys-web/results/greece) | 04/04/20 | 123 | 456
+[Italy](https://augustogarcia.github.io/Coronasurveys-web/results/italy) | 04/04/20 | 123 | 456
+[Netherlands](https://augustogarcia.github.io/Coronasurveys-web/results/netherlands) | 04/04/20 | 123 | 456
+[UK](https://augustogarcia.github.io/Coronasurveys-web/results/uk) | 04/04/20 | 123 | 456
+[USA](https://augustogarcia.github.io/Coronasurveys-web/results/usa) | 04/04/20 | 123 | 456
+[Japan](https://augustogarcia.github.io/Coronasurveys-web/results/japan) | 04/04/20 | 123 | 456
 
 ## About the Project
 [Publications](https://augustogarcia.github.io/Coronasurveys-web/info/publications){: .btn}
