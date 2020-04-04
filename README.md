@@ -16,7 +16,7 @@ https://augustogarcia.github.io/Coronasurveys-web/
 
 Country | Last Updated | Confirmed Cases | Estimated Cases
 ------------ | -------------
-[Cyprus](https://augustogarcia.github.io/Coronasurveys-web/results/cyprus) | 04/04/20 | 123 | 456
+[Cyprus](Coronasurveys-web/results/cyprus) | 04/04/20 | 123 | 456
 Spain | 04/04/20 | 123 | 456
 
 # Cyprus
