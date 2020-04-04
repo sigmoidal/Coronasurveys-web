@@ -7,7 +7,6 @@ https://augustogarcia.github.io/Coronasurveys-web/
 [Argentina](https://tinyurl.com/coronasurveysargentina){: .btn}
 [Chile](https://tinyurl.com/coronasurveyschile){: .btn}
 [Ecuador](https://tinyurl.com/coronasurveysecuador){: .btn}
-
 [Spain](http://spain.coronasurveys.com){: .btn}
 [Portugal](https://tinyurl.com/coronasurveysportugal){: .btn}
 [Cyprus](http://cyprus.coronasurveys.com){: .btn}
@@ -17,7 +16,6 @@ https://augustogarcia.github.io/Coronasurveys-web/
 [Italy](https://tinyurl.com/coronasurveysitaly){: .btn}
 [Netherlands](https://tinyurl.com/coronasurveysnetherlands){: .btn}
 [UK](https://tinyurl.com/coronasurveysuk){: .btn}
-
 [USA](https://tinyurl.com/coronasurveysusa){: .btn}
 [Japan](https://tinyurl.com/coronasurveysjapan){: .btn}
 
