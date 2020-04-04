@@ -34,7 +34,7 @@ Efstathios Stavrakis, Algolysis Ltd, Cyprus
 
 Yuichi Tanaka, Tokyo University of Agriculture and Technology, Japan
 
-Christopher Thraves, U. Concepción, Chile
+Christopher Thraves, U. ConcepciÃ³n, Chile
 
 Pelayo Vallina, IMDEA Networks & UC3M, Spain
 
