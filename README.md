@@ -2,6 +2,26 @@
 
 https://augustogarcia.github.io/Coronasurveys-web/
 
+Lorem ipsum dolor sit amet.
+
+[button url="http://www.google.com"]
+
+Lorem ipsum dolor sit amet.
+
+{% include button.html url="http://www.google.com" %}
+
+Lorem ipsum dolor sit amet.
+
+<button name="button" onclick="http://www.google.com">Click me</button>
+
+Lorem ipsum dolor sit amet.
+
+[Click me](http://www.google.com){: .btn}
+
+
+
+
+
 # Access to surveys
 
 <a href="{{https://spain.coronasurveys.com}}" class="btn">Spain</a>
