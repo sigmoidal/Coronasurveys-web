@@ -21,7 +21,12 @@ The following results present our estimations on the incidence of COVID-19 in th
 [USA](https://tinyurl.com/coronasurveysusa){: .btn}
 [Venezuela](https://tinyurl.com/coronasurveysvenezuela){: .btn}
 
-## Country-Specific Data
+### Results and Statistics
+
+<iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=21&orgId=1&from=1583494466235&to=1586086466235
+" width="800" height="600" frameborder="0"></iframe>
+
+### Country-Specific Data
 
 [Argentina](https://augustogarcia.github.io/Coronasurveys-web/results/argentina){: .btn}
 [Chile](https://augustogarcia.github.io/Coronasurveys-web/results/chile){: .btn}
@@ -39,11 +44,6 @@ The following results present our estimations on the incidence of COVID-19 in th
 [USA](https://augustogarcia.github.io/Coronasurveys-web/results/usa){: .btn}
 [Australia](https://augustogarcia.github.io/Coronasurveys-web/results/australia){: .btn}
 [Japan](https://augustogarcia.github.io/Coronasurveys-web/results/japan){: .btn}
-
-## Results and Statistics
-
-<iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=21&orgId=1&from=1583494466235&to=1586086466235
-" width="800" height="600" frameborder="0"></iframe>
 
 ## About the Project
 
