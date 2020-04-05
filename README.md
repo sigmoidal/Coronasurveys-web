@@ -1,4 +1,4 @@
-<iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1583492726626&to=1586084726626" width="820" height="300" frameborder="0"></iframe> <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1583490342423&to=1586082342423" width="820" height="300" frameborder="0"></iframe>
+<iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000&to=1586084726626" width="820" height="300" frameborder="0"></iframe> <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000&to=1586082342423" width="820" height="300" frameborder="0"></iframe>
 
 ### Contribute! Fill the survey!
 
