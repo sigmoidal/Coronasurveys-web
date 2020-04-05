@@ -1,5 +1,8 @@
 theme: jekyll-theme-cayman
-title: <img src="https://raw.githubusercontent.com/AugustoGarcia/Coronasurveys-web/master/assets/logo.jpg" height="200" width="400"> <br> CoronaSurveys
+title: <a href="https://www.zina-studio.com/">
+         <img src="https://raw.githubusercontent.com/AugustoGarcia/Coronasurveys-web/master/assets/logo.jpg" 
+         height="200" width="400">
+      </a> <br> CoronaSurveys
 description: Monitoring the Incidence of COVID-19 via Open Polls <br> <br> The following results present our estimations on the incidence of COVID-19 in the countries from which we have enough information. You can help by regularly completing the survey below.
 github:
   is_project_page: false
