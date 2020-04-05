@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: CoronaSurveys
-description: Monitoring the Incidence of COVID-19 via Open Polls <br> <br> The following results present our estimations on the incidence of COVID-19 in the countries from which we have enough information. You can help by regularly completing the survey below. 
+description: Monitoring the Incidence of COVID-19 via Open Polls <br> <br> The following results present our estimations on the incidence of COVID-19 in the countries from which we have enough information. You can help by regularly completing the survey below. <img src="https://github.com/AugustoGarcia/Coronasurveys-web/blob/master/assets/logo.jpg" alt="Smiley face" height="42" width="42"> 
 github:
   is_project_page: false
