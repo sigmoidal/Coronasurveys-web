@@ -42,6 +42,8 @@ The following results present our estimation on the % of affected population and
 
 ## Results and Statistics (Click on the country to see expanded information)
 
+<iframe src="https://www.seektable.com/cube/9e6e94e528ee4a5aac60e1a130e1d3a4" width="800" height="600" frameborder="0"></iframe>
+
 Country | Last Updated | Confirmed Cases | Estimated Cases
 ------------ | -------------
 [Argentina](https://augustogarcia.github.io/Coronasurveys-web/results/argentina) | 04/04/20 | 123 | 456
