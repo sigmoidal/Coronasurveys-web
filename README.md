@@ -42,7 +42,8 @@ The following results present our estimation on the % of affected population and
 
 ## Results and Statistics
 
-<iframe src="https://www.seektable.com/public/report/62c0cdddc53a4895876fd69faf66b126" width="800" height="600" frameborder="0"></iframe>
+<iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=21&orgId=1&from=1583494466235&to=1586086466235
+" width="800" height="600" frameborder="0"></iframe>
 
 ## About the Project
 
