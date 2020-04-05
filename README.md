@@ -1,6 +1,8 @@
 The following results present our estimation on the % of affected population and total number of infections by COVID-19 in the countries where we have collected enough information. You can help by regularly completing the survey below. 
 
-<iframe src="https://covid19.algolysis.com/grafana/d/G_Aw4CrZk/coronasurveys?tab=visualization&panelId=18&edit&fullscreen&orgId=1&var-code=PT&var-country=Portugal&var-reach=150&var-population=1000000&from=1583441481390&to=1586033481391" width="400" height="600" frameborder="0"></iframe> <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1583490342423&to=1586082342423" width="400" height="600" frameborder="0"></iframe>
+https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1583490342423&to=1586082342423
+
+<iframe src="https://covid19.algolysis.com/grafana/d/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=18&orgId=1&from=1583441481390&to=1586033481391" width="400" height="600" frameborder="0"></iframe> <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1583490342423&to=1586082342423" width="400" height="600" frameborder="0"></iframe>
 
 # Fill the survey!
 
