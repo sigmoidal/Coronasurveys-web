@@ -43,7 +43,7 @@
 [Australia](https://augustogarcia.github.io/Coronasurveys-web/results/australia){: .btn}
 [Japan](https://augustogarcia.github.io/Coronasurveys-web/results/japan){: .btn}
 
-## About the Project
+### About the Project
 
 The world is suffering from a pandemic called COVID-19, caused by the SARS-CoV-2 virus. The different national governments have problems evaluating the reach of the epidemic, having limited resources and tests to their disposal. Hence, any means to evaluate the number of persons with symptoms compatible with COVID-19 with reasonable level of accuracy is useful.
 
