@@ -1,28 +1,6 @@
-## @CoronaSurveys: Monitoring COVID-19 incidence via open polls
-
-https://augustogarcia.github.io/Coronasurveys-web/
+The following results present our estimation on the % of affected population and total number of infections by COVID-19 in the countries where we have collected enough information. You can help by regularly completing the survey below. 
 
 <iframe src="https://covid19.algolysis.com/grafana/d/G_Aw4CrZk/coronasurveys?tab=visualization&panelId=18&edit&fullscreen&orgId=1&var-code=PT&var-country=Portugal&var-reach=150&var-population=1000000&from=1583441481390&to=1586033481391" width="400" height="600" frameborder="0"></iframe> <iframe src="https://covid19.algolysis.com/grafana/d/G_Aw4CrZk/coronasurveys?tab=queries&panelId=19&edit&fullscreen&orgId=1&var-code=PT&var-country=Portugal&var-reach=150&var-population=1000000&from=1583444616500&to=1586036616500" width="400" height="600" frameborder="0"></iframe>
-
-
-## Country-Specific Data
-
-[Argentina](https://augustogarcia.github.io/Coronasurveys-web/results/argentina){: .btn}
-[Chile](https://augustogarcia.github.io/Coronasurveys-web/results/chile){: .btn}
-[Ecuador](https://augustogarcia.github.io/Coronasurveys-web/results/ecuador){: .btn}
-[Venezuela](https://augustogarcia.github.io/Coronasurveys-web/results/venezuela){: .btn}
-[Spain](https://augustogarcia.github.io/Coronasurveys-web/results/spain){: .btn}
-[Portugal](https://augustogarcia.github.io/Coronasurveys-web/results/portugal){: .btn}
-[Cyprus](https://augustogarcia.github.io/Coronasurveys-web/results/cyprus){: .btn}
-[France](https://augustogarcia.github.io/Coronasurveys-web/results/france){: .btn}
-[Germany](https://augustogarcia.github.io/Coronasurveys-web/results/germany){: .btn}
-[Greece](https://augustogarcia.github.io/Coronasurveys-web/results/greece){: .btn}
-[Italy](https://augustogarcia.github.io/Coronasurveys-web/results/italy){: .btn}
-[Netherlands](https://augustogarcia.github.io/Coronasurveys-web/results/netherlands){: .btn}
-[UK](https://augustogarcia.github.io/Coronasurveys-web/results/uk){: .btn}
-[USA](https://augustogarcia.github.io/Coronasurveys-web/results/usa){: .btn}
-[Australia](https://augustogarcia.github.io/Coronasurveys-web/results/australia){: .btn}
-[Japan](https://augustogarcia.github.io/Coronasurveys-web/results/japan){: .btn}
 
 # Fill the survey!
 
@@ -42,6 +20,25 @@ https://augustogarcia.github.io/Coronasurveys-web/
 [USA](https://tinyurl.com/coronasurveysusa){: .btn}
 [Australia](https://tinyurl.com/coronasurveysaustralia){: .btn}
 [Japan](https://tinyurl.com/coronasurveysjapan){: .btn}
+
+## Country-Specific Data
+
+[Argentina](https://augustogarcia.github.io/Coronasurveys-web/results/argentina){: .btn}
+[Chile](https://augustogarcia.github.io/Coronasurveys-web/results/chile){: .btn}
+[Ecuador](https://augustogarcia.github.io/Coronasurveys-web/results/ecuador){: .btn}
+[Venezuela](https://augustogarcia.github.io/Coronasurveys-web/results/venezuela){: .btn}
+[Spain](https://augustogarcia.github.io/Coronasurveys-web/results/spain){: .btn}
+[Portugal](https://augustogarcia.github.io/Coronasurveys-web/results/portugal){: .btn}
+[Cyprus](https://augustogarcia.github.io/Coronasurveys-web/results/cyprus){: .btn}
+[France](https://augustogarcia.github.io/Coronasurveys-web/results/france){: .btn}
+[Germany](https://augustogarcia.github.io/Coronasurveys-web/results/germany){: .btn}
+[Greece](https://augustogarcia.github.io/Coronasurveys-web/results/greece){: .btn}
+[Italy](https://augustogarcia.github.io/Coronasurveys-web/results/italy){: .btn}
+[Netherlands](https://augustogarcia.github.io/Coronasurveys-web/results/netherlands){: .btn}
+[UK](https://augustogarcia.github.io/Coronasurveys-web/results/uk){: .btn}
+[USA](https://augustogarcia.github.io/Coronasurveys-web/results/usa){: .btn}
+[Australia](https://augustogarcia.github.io/Coronasurveys-web/results/australia){: .btn}
+[Japan](https://augustogarcia.github.io/Coronasurveys-web/results/japan){: .btn}
 
 ## Results and Statistics (Click on the country to see expanded information)
 
@@ -65,9 +62,6 @@ Country | Last Updated | Confirmed Cases | Estimated Cases
 [Japan](https://augustogarcia.github.io/Coronasurveys-web/results/japan) | 04/04/20 | 123 | 456
 
 ## About the Project
-[Publications](https://augustogarcia.github.io/Coronasurveys-web/info/publications){: .btn}
-[Team](https://augustogarcia.github.io/Coronasurveys-web/info/team){: .btn}
-[Contact](https://augustogarcia.github.io/Coronasurveys-web/info/contact){: .btn}
 
 The world is suffering from a pandemic called COVID-19, caused by the SARS-CoV-2 virus. The different national governments have problems evaluating the reach of the epidemic, having limited resources and tests to their disposal. Hence, any means to evaluate the number of persons with symptoms compatible with COVID-19 with reasonable level of accuracy is useful.
 
@@ -78,6 +72,8 @@ The objective of this study is the collection and publication of data concerning
 Please complete one of our surveys! Choose your country of residence and tell us about the number of cases (suspected or confirmed) you know about. No personal information is stored in these surveys. Because each of us can provide information about the situation among our direct contacts, in aggregate we are able to get rough estimates of total cases.
 
 Because we are tracking the evolution of this epidemic over time, once you have completed the survey, please remember to come back and update the survey every day. And finally, you can help us by asking your friends, colleagues and relatives to complete the survey as well! Thank you!
+
+[Access our Github Repository](https://github.com/GCGImdea/coronasurveys){: .btn}
 
 You can also follow us on social networks and share our work:
 
