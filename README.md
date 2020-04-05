@@ -2,24 +2,24 @@ The following results present our estimations on the incidence of COVID-19 in th
 
 <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1583492726626&to=1586084726626" width="820" height="300" frameborder="0"></iframe> <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1583490342423&to=1586082342423" width="820" height="300" frameborder="0"></iframe>
 
-# Fill the survey!
+### Contribute! Fill the survey!
 
 [Argentina](https://tinyurl.com/coronasurveysargentina){: .btn}
+[Australia](https://tinyurl.com/coronasurveysaustralia){: .btn}
 [Chile](https://tinyurl.com/coronasurveyschile){: .btn}
-[Ecuador](https://tinyurl.com/coronasurveysecuador){: .btn}
-[Venezuela](https://tinyurl.com/coronasurveysvenezuela){: .btn}
-[Spain](http://spain.coronasurveys.com){: .btn}
-[Portugal](https://tinyurl.com/coronasurveysportugal){: .btn}
 [Cyprus](http://cyprus.coronasurveys.com){: .btn}
+[Ecuador](https://tinyurl.com/coronasurveysecuador){: .btn}
 [France](https://tinyurl.com/coronasurveysfrance){: .btn}
 [Germany](https://tinyurl.com/coronasurveysgermany){: .btn}
 [Greece](https://tinyurl.com/coronasurveysgreece){: .btn}
 [Italy](https://tinyurl.com/coronasurveysitaly){: .btn}
+[Japan](https://tinyurl.com/coronasurveysjapan){: .btn}
 [Netherlands](https://tinyurl.com/coronasurveysnetherlands){: .btn}
+[Portugal](https://tinyurl.com/coronasurveysportugal){: .btn}
+[Spain](http://spain.coronasurveys.com){: .btn}
 [UK](https://tinyurl.com/coronasurveysuk){: .btn}
 [USA](https://tinyurl.com/coronasurveysusa){: .btn}
-[Australia](https://tinyurl.com/coronasurveysaustralia){: .btn}
-[Japan](https://tinyurl.com/coronasurveysjapan){: .btn}
+[Venezuela](https://tinyurl.com/coronasurveysvenezuela){: .btn}
 
 ## Country-Specific Data
 
