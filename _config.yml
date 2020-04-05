@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
+title: @CoronaSurveys
+description: Monitoring the Incidence of COVID-19 via Open Polls
 github:
   is_project_page: false
