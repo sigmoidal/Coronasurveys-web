@@ -24,22 +24,22 @@
 
 ### Country-Specific Data
 
-[Argentina](https://https://gcgimdea.github.io/Coronasurveys-web/results/argentina){: .btn}
-[Chile](https://https://gcgimdea.github.io/Coronasurveys-web/results/chile){: .btn}
-[Ecuador](https://https://gcgimdea.github.io/Coronasurveys-web/results/ecuador){: .btn}
-[Venezuela](https://https://gcgimdea.github.io/Coronasurveys-web/results/venezuela){: .btn}
-[Spain](https://https://gcgimdea.github.io/Coronasurveys-web/results/spain){: .btn}
-[Portugal](https://https://gcgimdea.github.io/Coronasurveys-web/results/portugal){: .btn}
-[Cyprus](https://https://gcgimdea.github.io/Coronasurveys-web/results/cyprus){: .btn}
-[France](https://https://gcgimdea.github.io/Coronasurveys-web/results/france){: .btn}
-[Germany](https://https://gcgimdea.github.io/Coronasurveys-web/results/germany){: .btn}
-[Greece](https://https://gcgimdea.github.io/Coronasurveys-web/results/greece){: .btn}
-[Italy](https://https://gcgimdea.github.io/Coronasurveys-web/results/italy){: .btn}
-[Netherlands](https://https://gcgimdea.github.io/Coronasurveys-web/results/netherlands){: .btn}
-[UK](https://https://gcgimdea.github.io/Coronasurveys-web/results/uk){: .btn}
-[USA](https://https://gcgimdea.github.io/Coronasurveys-web/results/usa){: .btn}
-[Australia](https://https://gcgimdea.github.io/Coronasurveys-web/results/australia){: .btn}
-[Japan](https://https://gcgimdea.github.io/Coronasurveys-web/results/japan){: .btn}
+[Argentina](https://gcgimdea.github.io/Coronasurveys-web/results/argentina){: .btn}
+[Chile](https://gcgimdea.github.io/Coronasurveys-web/results/chile){: .btn}
+[Ecuador](https://gcgimdea.github.io/Coronasurveys-web/results/ecuador){: .btn}
+[Venezuela](https://gcgimdea.github.io/Coronasurveys-web/results/venezuela){: .btn}
+[Spain](https://gcgimdea.github.io/Coronasurveys-web/results/spain){: .btn}
+[Portugal](https://gcgimdea.github.io/Coronasurveys-web/results/portugal){: .btn}
+[Cyprus](https://gcgimdea.github.io/Coronasurveys-web/results/cyprus){: .btn}
+[France](https://gcgimdea.github.io/Coronasurveys-web/results/france){: .btn}
+[Germany](https://gcgimdea.github.io/Coronasurveys-web/results/germany){: .btn}
+[Greece](https://gcgimdea.github.io/Coronasurveys-web/results/greece){: .btn}
+[Italy](https://gcgimdea.github.io/Coronasurveys-web/results/italy){: .btn}
+[Netherlands](https://gcgimdea.github.io/Coronasurveys-web/results/netherlands){: .btn}
+[UK](https://gcgimdea.github.io/Coronasurveys-web/results/uk){: .btn}
+[USA](https://gcgimdea.github.io/Coronasurveys-web/results/usa){: .btn}
+[Australia](https://gcgimdea.github.io/Coronasurveys-web/results/australia){: .btn}
+[Japan](https://gcgimdea.github.io/Coronasurveys-web/results/japan){: .btn}
 
 ### About the Project
 
