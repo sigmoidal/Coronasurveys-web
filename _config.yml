@@ -9,7 +9,7 @@ description:
          You can help by regularly completing the survey below.
          <br><br>
                   <a href="https://www.networks.imdea.org/">
-                  <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/imdea%20networks-white%20background-EN.png" 
+                  <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/imdea%20net%20ing%20fondo%20blanco.png" 
                   height="50" width="100">
                   </a> 
                   <a href="https://www.ucy.ac.cy/en/">
@@ -17,7 +17,7 @@ description:
                   height="50" width="150">
                   </a> 
                   <a href="https://www.algolysis.com/">
-                  <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/cropped-algolysis-logo-wide.png" 
+                  <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg" 
                   height="50" width="150">
                   </a> 
                   <a href="https://viterbischool.usc.edu/">
@@ -28,6 +28,18 @@ description:
                   <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/tud_logo.png" 
                   height="50" width="120">
                   </a> 
-         
+                  <a href="https://www.ed.ac.uk/informatics">
+                  <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/InformaticsUni_transparent.gif" 
+                  height="50" width="120">
+                  </a> 
+                  <a href="https://www.uminho.pt/EN">
+                  <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/UMinho.png" 
+                  height="50" width="120">
+                  </a> 
+                  <a href="https://www.inesctec.pt/en">
+                  <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/inesctec.png" 
+                  height="50" width="120">
+                  </a> 
+                         
 github:
   is_project_page: false
