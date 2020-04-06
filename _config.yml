@@ -8,5 +8,11 @@ description: Monitoring the Incidence of COVID-19 via Open Polls
          <br> <br> 
          The following results present our estimations on the incidence of COVID-19 in the countries from which we have enough information. 
          You can help by regularly completing the survey below.
+         <br>
+                  <a href="http://www.zina-studio.com/">
+                  <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/imdea%20networks-white%20background-EN.png" 
+                  height="100" width="200">
+                  </a> 
+         
 github:
   is_project_page: false
