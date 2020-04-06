@@ -27,11 +27,11 @@
 " width="1000" height="400" frameborder="0"></iframe>
 
 
-(1) @CoronaSurveys estimates 95% confidence interval.
+(1) Amy Maxmen. How much is coronavirus spreading under the radar? Nature News Explainer, March 13th, 2020. <https://www.nature.com/articles/d41586-020-00760-8>
 
-(2) Amy Maxmen. How much is coronavirus spreading under the radar? Nature News Explainer, March 13th, 2020. https://www.nature.com/articles/d41586-020-00760-8
+(2) Hiroshi Nishiura et al. Early Epidemiological Assessment of the Virulence of Emerging Infectious Diseases: A Case Study of an Influenza Pandemic. Plos One. August 31, 2009. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006852>
 
-(3) Hiroshi Nishiura et al. Early Epidemiological Assessment of the Virulence of Emerging Infectious Diseases: A Case Study of an Influenza Pandemic. Plos One. August 31, 2009. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006852
+(3) @CoronaSurveys estimates with 95% confidence.
 
 ### About the project
 
