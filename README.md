@@ -44,11 +44,16 @@ Because we are tracking the evolution of this epidemic over time, once you have 
 
 You can also follow us on social networks and share our work:
 
- <a href="https://www.facebook.com/groups/209076966867175/">
+<a href="https://www.facebook.com/groups/209076966867175/">
          <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/other/facebook.png" height="50" width="50">
-         </a> 
-
-[Facebook](https://www.facebook.com/groups/209076966867175/){: .btn}
-[Twitter](https://twitter.com/coronasurveys){: .btn}
-[Instagram](https://www.instagram.com/coronasurveys/){: .btn}
+</a> 
+ 
+<a href="https://twitter.com/coronasurveys">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/other/twitter.png" height="50" width="50">
+</a> 
+ 
+<a href="https://www.instagram.com/coronasurveys/">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/other/instagram.png" height="50" width="50">
+</a> 
+ 
 [E-mail](mailto:coronasurveys@gmail.com){: .btn}
