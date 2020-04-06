@@ -1,4 +1,4 @@
-                  <a href="https://www.networks.imdea.org/">
+<a href="https://www.networks.imdea.org/">
                   <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/imdea%20net%20ing%20fondo%20blanco.png" 
                   height="50" width="100">
                   </a> 
@@ -7,7 +7,7 @@
                   height="50" width="150">
                   </a> 
                   <a href="https://www.algolysis.com/">
-                  <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/algolysis_corporate-identity_v4.0-Grayscale_LOGO-                  dark-on-white-text-right.jpg" 
+                  <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg" 
                   height="50" width="150">
                   </a> 
                   <a href="https://viterbischool.usc.edu/">
