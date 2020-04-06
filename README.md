@@ -21,18 +21,20 @@
 ### Estimates obtained by @CoronaSurveys
 
 <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000&to=1586084726626" width="100%" height="300" frameborder="0"></iframe> <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000&to=1586082342423" width="100%" height="300" frameborder="0"></iframe>
+(Updated daily at 00:00 GMT)
 
 ### Latest estimates per country
 
 <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=24&orgId=1&from=1583610808303&to=1586202808303" width="100%" height="500" frameborder="0">
 </iframe>
+(Updated daily at 00:00 GMT)
 
 
 (1) Hiroshi Nishiura et al. Early Epidemiological Assessment of the Virulence of Emerging Infectious Diseases: A Case Study of an Influenza Pandemic. Plos One. August 31, 2009. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006852>
 
 (2) Amy Maxmen. How much is coronavirus spreading under the radar? Nature News Explainer, March 13th, 2020. <https://www.nature.com/articles/d41586-020-00760-8>
 
-(3) @CoronaSurveys estimates with 95% confidence. [Measuring Icebergs: Using Different Methods to Estimate the Number of COVID-19 Cases in Portugal and Spain](https://github.com/GCGImdea/coronasurveys/blob/master/reports/2020-03-29-CaseEstimation.pdf)
+(3) @CoronaSurveys estimates with 95% confidence. Corresponds to the latest date with sufficient number of responses. See the plots above. [Measuring Icebergs: Using Different Methods to Estimate the Number of COVID-19 Cases in Portugal and Spain](https://github.com/GCGImdea/coronasurveys/blob/master/reports/2020-03-29-CaseEstimation.pdf)
 
 ### About the project
 
