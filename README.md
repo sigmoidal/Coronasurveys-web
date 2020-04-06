@@ -23,7 +23,7 @@
 <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/inesctec.png" height="50" width="50">
 </a> 
 
-### Contribute! Fill the survey!
+### Contribute! Fill the anonymous survey!
 
 [Argentina](https://tinyurl.com/coronasurveysargentina){: .btn}
 [Australia](https://tinyurl.com/coronasurveysaustralia){: .btn}
