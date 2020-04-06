@@ -1,28 +1,3 @@
-<a href="https://www.networks.imdea.org/">
-<img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/imdea%20net%20ing%20fondo%20blanco.png" height="50" width="100">
-</a> 
-<a href="https://www.ucy.ac.cy/en/">
-<img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/University_of_Cyprus_2gr.jpg" height="50" width="150">
-</a> 
-<a href="https://www.algolysis.com/">
-<img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg" height="50" width="150">
-</a> 
-<a href="https://viterbischool.usc.edu/">
-<img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/Formal_Viterbi_CardOnWhite.jpg" height="50" width="130">
-</a> 
-<a href="https://www.tu-darmstadt.de/index.en.jsp">
-<img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/tud_logo.png" height="50" width="120">
-</a> 
-<a href="https://www.ed.ac.uk/informatics">
-<img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/InformaticsUni_transparent.gif" height="50" width="180">
-</a> 
-<a href="https://www.uminho.pt/EN">
-<img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/UMinho.png" height="50" width="100">
-</a> 
-<a href="https://www.inesctec.pt/en">
-<img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/inesctec.png" height="50" width="50">
-</a> 
-
 ### Contribute! Fill the anonymous survey!
 
 [Argentina](https://tinyurl.com/coronasurveysargentina){: .btn}
