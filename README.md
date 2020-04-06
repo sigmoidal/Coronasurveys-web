@@ -45,7 +45,7 @@ Because we are tracking the evolution of this epidemic over time, once you have 
 You can also follow us on social networks and share our work:
 
  <a href="https://www.facebook.com/groups/209076966867175/">
-         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/other/facebook.png" height="10" width="10">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/other/facebook.png" height="50" width="50">
          </a> 
 
 [Facebook](https://www.facebook.com/groups/209076966867175/){: .btn}
