@@ -22,25 +22,6 @@
 <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=21&orgId=1&from=1583494466235&to=1586086466235
 " width="1000" height="400" frameborder="0"></iframe>
 
-### Country-Specific Data
-
-[Argentina](https://gcgimdea.github.io/Coronasurveys-web/results/argentina){: .btn}
-[Chile](https://gcgimdea.github.io/Coronasurveys-web/results/chile){: .btn}
-[Ecuador](https://gcgimdea.github.io/Coronasurveys-web/results/ecuador){: .btn}
-[Venezuela](https://gcgimdea.github.io/Coronasurveys-web/results/venezuela){: .btn}
-[Spain](https://gcgimdea.github.io/Coronasurveys-web/results/spain){: .btn}
-[Portugal](https://gcgimdea.github.io/Coronasurveys-web/results/portugal){: .btn}
-[Cyprus](https://gcgimdea.github.io/Coronasurveys-web/results/cyprus){: .btn}
-[France](https://gcgimdea.github.io/Coronasurveys-web/results/france){: .btn}
-[Germany](https://gcgimdea.github.io/Coronasurveys-web/results/germany){: .btn}
-[Greece](https://gcgimdea.github.io/Coronasurveys-web/results/greece){: .btn}
-[Italy](https://gcgimdea.github.io/Coronasurveys-web/results/italy){: .btn}
-[Netherlands](https://gcgimdea.github.io/Coronasurveys-web/results/netherlands){: .btn}
-[UK](https://gcgimdea.github.io/Coronasurveys-web/results/uk){: .btn}
-[USA](https://gcgimdea.github.io/Coronasurveys-web/results/usa){: .btn}
-[Australia](https://gcgimdea.github.io/Coronasurveys-web/results/australia){: .btn}
-[Japan](https://gcgimdea.github.io/Coronasurveys-web/results/japan){: .btn}
-
 ### About the Project
 
 The world is suffering from a pandemic called COVID-19, caused by the SARS-CoV-2 virus. The different national governments have problems evaluating the reach of the epidemic, having limited resources and tests to their disposal. Hence, any means to evaluate the number of persons with symptoms compatible with COVID-19 with reasonable level of accuracy is useful.
