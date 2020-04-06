@@ -21,10 +21,12 @@
 
 <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000&to=1586084726626" width="1000" height="300" frameborder="0"></iframe> <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000&to=1586082342423" width="1000" height="300" frameborder="0"></iframe>
 
+### Latest estimates per country
+
 <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=21&orgId=1&from=1583494466235&to=1586086466235
 " width="1000" height="400" frameborder="0"></iframe>
 
-### About the Project
+### About the project
 
 The world is suffering from a pandemic called COVID-19, caused by the SARS-CoV-2 virus. The different national governments have problems evaluating the reach of the epidemic, having limited resources and tests to their disposal. Hence, any means to evaluate the number of persons with symptoms compatible with COVID-19 with reasonable level of accuracy is useful.
 
