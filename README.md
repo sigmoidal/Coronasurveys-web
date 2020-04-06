@@ -17,21 +17,6 @@
 [USA](https://tinyurl.com/coronasurveysusa){: .btn}
 [Venezuela](https://tinyurl.com/coronasurveysvenezuela){: .btn}
 
-<div class="dropdown">
-  <button class="dropbtn">Dropdown</button>
-  <div class="dropdown-content">
-    <a href="https://tinyurl.com/coronasurveysargentina">Argentina</a>
-    <a href="https://tinyurl.com/coronasurveysaustralia">Australia</a>
-    <a href="https://tinyurl.com/coronasurveyschile">Chile</a>
-  </div>
-</div>
-
-<select id="cars" name="cars">
-  <option value="volvo">Volvo</option>
-  <option value="saab">Saab</option>
-  <option value="fiat">Fiat</option>
-  <option value="audi">Audi</option>
-</select>
 
 ### Estimates obtained by @CoronaSurveys
 
