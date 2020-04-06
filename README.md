@@ -46,13 +46,9 @@ You can also follow us on social networks and share our work:
 
 <a href="https://www.facebook.com/groups/209076966867175/">
          <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/other/facebook.png" height="50" width="50">
-</a> 
- 
-<a href="https://twitter.com/coronasurveys">
+</a> <a href="https://twitter.com/coronasurveys">
          <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/other/twitter.png" height="50" width="50">
-</a> 
- 
-<a href="https://www.instagram.com/coronasurveys/">
+</a> <a href="https://www.instagram.com/coronasurveys/">
          <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/other/instagram.png" height="50" width="50">
 </a> 
  
