@@ -40,6 +40,8 @@ Please complete one of our surveys! Choose your country of residence and tell us
 
 Because we are tracking the evolution of this epidemic over time, once you have completed the survey, please remember to come back and update the survey every day. And finally, you can help us by asking your friends, colleagues and relatives to complete the survey as well! Thank you!
 
+### Follow us
+
 You can also follow us on social networks and share our work:
 
 [Facebook](https://www.facebook.com/groups/209076966867175/){: .btn}
