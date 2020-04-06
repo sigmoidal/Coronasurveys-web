@@ -20,14 +20,14 @@
 
 ### Estimates obtained by @CoronaSurveys
 
-<iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000&to=1586084726626" width="100%" height="100%" frameborder="0"></iframe> <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000&to=1586082342423" width="100%" height="100%" frameborder="0"></iframe>
 (Updated daily at 00:00 GMT)
+<iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000&to=1586084726626" width="100%" height="100%" frameborder="0"></iframe> <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000&to=1586082342423" width="100%" height="100%" frameborder="0"></iframe>
 
 ### Latest estimates per country
 
+(Updated daily at 00:00 GMT)
 <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=24&orgId=1&from=1583610808303&to=1586202808303" width="100%" height="100%" frameborder="0">
 </iframe>
-(Updated daily at 00:00 GMT)
 
 
 (1) Hiroshi Nishiura et al. Early Epidemiological Assessment of the Virulence of Emerging Infectious Diseases: A Case Study of an Influenza Pandemic. Plos One. August 31, 2009. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006852>
