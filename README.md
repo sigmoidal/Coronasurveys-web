@@ -17,10 +17,10 @@
 [USA](https://tinyurl.com/coronasurveysusa){: .btn}
 [Venezuela](https://tinyurl.com/coronasurveysvenezuela){: .btn}
 
-<iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000&to=1586084726626" width="820" height="300" frameborder="0"></iframe> <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000&to=1586082342423" width="820" height="300" frameborder="0"></iframe>
+<iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000&to=1586084726626" width="1000" height="300" frameborder="0"></iframe> <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000&to=1586082342423" width="1000" height="300" frameborder="0"></iframe>
 
 <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=21&orgId=1&from=1583494466235&to=1586086466235
-" width="900" height="500" frameborder="0"></iframe>
+" width="1000" height="500" frameborder="0"></iframe>
 
 ### Country-Specific Data
 
