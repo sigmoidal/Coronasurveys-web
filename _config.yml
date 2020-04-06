@@ -3,15 +3,18 @@ title: <a href="http://www.zina-studio.com/">
          <img src="https://raw.githubusercontent.com/AugustoGarcia/Coronasurveys-web/master/assets/logo.jpg" 
          height="100" width="200">
       </a> <br> 
-      <font size="6">CoronaSurveys</font>
-description: Monitoring the Incidence of COVID-19 via Open Polls 
-         <br> <br> 
+      <font size="6"> CoronaSurveys: Monitoring the Incidence of COVID-19 via Open Polls </font>
+description:  
          The following results present our estimations on the incidence of COVID-19 in the countries from which we have enough information. 
          You can help by regularly completing the survey below.
-         <br>
-                  <a href="http://www.zina-studio.com/">
+         <br><br>
+                  <a href="https://www.networks.imdea.org/">
                   <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/imdea%20networks-white%20background-EN.png" 
-                  height="100" width="200">
+                  height="50" width="100">
+                  </a> 
+                  <a href="https://www.ucy.ac.cy/en/">
+                  <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/ucy-logo.png" 
+                  height="50" width="100">
                   </a> 
          
 github:
