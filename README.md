@@ -1,4 +1,4 @@
-### Contribute! Fill your anonymous survey!
+### Contribute! Fill the anonymous survey for your country!
 
 [Argentina](https://tinyurl.com/coronasurveysargentina){: .btn}
 [Australia](https://tinyurl.com/coronasurveysaustralia){: .btn}
@@ -56,7 +56,7 @@ Please complete one of our surveys! Choose your country of residence and tell us
 
 Because we are tracking the evolution of this epidemic over time, once you have completed the survey, please remember to come back and update the survey every day. And finally, you can help us by asking your friends, colleagues and relatives to complete the survey as well! Thank you!
 
-### Follow us
+### Follow us!
 
 You can also follow us on social networks and share our work:
 
