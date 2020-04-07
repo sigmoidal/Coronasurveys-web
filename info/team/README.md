@@ -6,10 +6,11 @@ The study is conducted by a team led by the Research Professor Antonio Fernandez
 - Annette Bieniusa, U. Kaiserslautern, Germany
 - Paolo Casari, University of Trento, Italy
 - Ignacio Castro, QMUL, UK
-- Chryssis Georgiou, U. Cyprus, Cyprus
 - Davide Frey, Inria Rennes, France
 - Augusto Garcia-Agundez, TU Darmstadt, Germany
 - Angeliki Gazi, Panteion University of Social and Political Sciences, Greece
+- Chryssis Georgiou, U. Cyprus, Cyprus
+- Benjamin Girault, USC, USA
 - Raquel Menezes, U. Minho, Portugal
 - Esteban Moro, UC3M & MIT, Spain & USA
 - Nicolas Nicolaou, Algolysis Ltd, Cyprus
