@@ -3,7 +3,7 @@
 [Argentina](https://tinyurl.com/coronasurveysargentina){: .btn}
 [Australia](https://tinyurl.com/coronasurveysaustralia){: .btn}
 [Chile](https://tinyurl.com/coronasurveyschile){: .btn}
-[Cyprus](http://cyprus.coronasurveys.com){: .btn}
+[Cyprus](https://tinyurl.com/coronasurveyscyprus){: .btn}
 [Ecuador](https://tinyurl.com/coronasurveysecuador){: .btn}
 [France](https://tinyurl.com/coronasurveysfrance){: .btn}
 [Germany](https://tinyurl.com/coronasurveysgermany){: .btn}
@@ -12,7 +12,7 @@
 [Japan](https://tinyurl.com/coronasurveysjapan){: .btn}
 [Netherlands](https://tinyurl.com/coronasurveysnetherlands){: .btn}
 [Portugal](https://tinyurl.com/coronasurveysportugal){: .btn}
-[Spain](http://spain.coronasurveys.com){: .btn}
+[Spain](https://tinyurl.com/coronasurveysspain){: .btn}
 [UK](https://tinyurl.com/coronasurveysuk){: .btn}
 [Ukraine](https://tinyurl.com/coronasurveysukraine){: .btn}
 [USA](https://tinyurl.com/coronasurveysusa){: .btn}
