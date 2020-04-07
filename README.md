@@ -28,7 +28,7 @@
 
 <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" width="100%" height="300" frameborder="0"></iframe>
 
-<a href="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" > (<font size="2"><u>Click here if you can't see the graph</u></font>)</a> 
+<a href="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" > <center><font size="2"><u>Click here if you can't see the graph</u></font></center></a> 
 
 ### Latest estimates per country
 
@@ -36,7 +36,8 @@
 <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=24&orgId=1&from=1583610808303&to=1586202808303" width="100%" height="500" frameborder="0">
 </iframe>
 
-<a href="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=24&orgId=1&from=1583610808303&to=1586202808303" > (<font size="2"><u>Click here if you can't see the table</u></font>)</a> 
+<a href="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveystab=advanced&panelId=24&orgId=1&from=1583610808303&to=1586202808303" > 
+<center><font size="2"><u>Click here if you can't see the table</u></font></center></a> 
 
 (1) Hiroshi Nishiura et al. Early Epidemiological Assessment of the Virulence of Emerging Infectious Diseases: A Case Study of an Influenza Pandemic. Plos One. August 31, 2009. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006852>
 
