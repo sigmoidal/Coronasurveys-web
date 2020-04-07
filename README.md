@@ -24,7 +24,7 @@
 (Updated daily)
 <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" width="100%" height="300" frameborder="0"></iframe> 
 
-<a href="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" > (<center><font size="2"><u>Click here if you can't see the graph</u></font></center>)</a> 
+<a href="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" > <center><font size="2"><u>Click here if you can't see the graph</u></font></center></a> 
 
 <iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" width="100%" height="300" frameborder="0"></iframe>
 
