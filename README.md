@@ -61,4 +61,5 @@ You can also follow us on social networks and share our work:
 </a> <a href="https://www.instagram.com/coronasurveys/">
          <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/other/instagram.png" height="50" width="50">
 </a> 
+
 [E-mail](mailto:coronasurveys@gmail.com){: .btn}
