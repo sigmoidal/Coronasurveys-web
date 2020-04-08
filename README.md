@@ -13,6 +13,7 @@
 [Netherlands](https://tinyurl.com/coronasurveysnetherlands){: .btn}
 [Portugal](https://tinyurl.com/coronasurveysportugal){: .btn}
 [Spain](https://tinyurl.com/coronasurveysspain){: .btn}
+[Sweden](https://tinyurl.com/coronasurveyssweden){: .btn}
 [UK](https://tinyurl.com/coronasurveysuk){: .btn}
 [Ukraine](https://tinyurl.com/coronasurveysukraine){: .btn}
 [USA](https://tinyurl.com/coronasurveysusa){: .btn}
