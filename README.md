@@ -19,6 +19,8 @@
 [USA](https://tinyurl.com/coronasurveysusa){: .btn}
 [Venezuela](https://tinyurl.com/coronasurveysvenezuela){: .btn}
 
+[Rest of the World](https://tinyurl.com/coronasurveysworld){: .btn}
+
 
 ### Estimates obtained by @CoronaSurveys
 
