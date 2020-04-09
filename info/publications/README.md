@@ -6,10 +6,10 @@
 
 ### English
 
-- [Phys.org](https://phys.org/wire-news/347339848/a-study-led-by-a-researcher-from-imdea-networks-counts-more-than.html)
-- [Total Telecom](https://www.totaltele.com/505366/An-international-team-led-by-a-researcher-from-IMDEA-Networks-counts-more-than-two-million-current-symptomatic-cases-of-Covid-19-in-Spain)
-- [Alphagallileo](https://www.alphagalileo.org/en-gb/Item-Display/ItemId/190991)
-- [DiCYT](https://www.dicyt.com/news/an-international-team-counts-more-than-two-million-current-symptomatic-cases-of-covid-19-in-spain)
+- [Phys.org (April 3rd, 2020)](https://phys.org/wire-news/347339848/a-study-led-by-a-researcher-from-imdea-networks-counts-more-than.html)
+- [DiCYT (April 3rd, 2020)](https://www.dicyt.com/news/an-international-team-counts-more-than-two-million-current-symptomatic-cases-of-covid-19-in-spain)
+- [Total Telecom (April 2nd, 2020)](https://www.totaltele.com/505366/An-international-team-led-by-a-researcher-from-IMDEA-Networks-counts-more-than-two-million-current-symptomatic-cases-of-Covid-19-in-Spain)
+- [Alphagallileo (April 2nd, 2020)](https://www.alphagalileo.org/en-gb/Item-Display/ItemId/190991)
 
 ### Spanish
 
