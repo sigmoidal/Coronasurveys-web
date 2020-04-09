@@ -49,7 +49,7 @@ Source of data on confirmed cases and deaths: [European Centre for Disease Preve
 
 (2) Amy Maxmen. How much is coronavirus spreading under the radar? Nature News Explainer, March 13th, 2020. <https://www.nature.com/articles/d41586-020-00760-8>
 
-(3) @CoronaSurveys estimates with 95% confidence. Corresponds to the latest date with sufficient number of responses. See the plots above. [Measuring Icebergs: Using Different Methods to Estimate the Number of COVID-19 Cases in Portugal and Spain](https://github.com/GCGImdea/coronasurveys/blob/master/reports/2020-03-29-CaseEstimation.pdf)
+(3) @CoronaSurveys estimates of cases with symptoms with 95% confidence. Corresponds to the latest date with sufficient cumulative number of survey responses. See the plots above. [Measuring Icebergs: Using Different Methods to Estimate the Number of COVID-19 Cases in Portugal and Spain](https://github.com/GCGImdea/coronasurveys/blob/master/reports/2020-03-29-CaseEstimation.pdf)
 
 ### About the project
 
@@ -75,6 +75,5 @@ You can also follow us on social networks and share our work:
          <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/other/twitter.png" height="50" width="50">
 </a> <a href="https://www.instagram.com/coronasurveys/">
          <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/other/instagram.png" height="50" width="50">
-</a> 
-
+</a>
 [E-mail](mailto:coronasurveys@gmail.com){: .btn}
