@@ -52,6 +52,12 @@ Source of data on confirmed cases and deaths: [European Centre for Disease Preve
 
 (3) @CoronaSurveys estimates of cases with symptoms with 95% confidence. Corresponds to the latest date with sufficient cumulative number of survey responses. See the plots above. [Measuring Icebergs: Using Different Methods to Estimate the Number of COVID-19 Cases in Portugal and Spain](https://github.com/GCGImdea/coronasurveys/blob/master/reports/2020-03-29-CaseEstimation.pdf)
 
+### How can I help?
+
+Please complete our surveys! Choose a country in which you have contacts, and tell us about the number of cases (suspected or confirmed) you know about. No personal information is stored in these surveys. Because each of us can provide information about the situation among our direct contacts, in aggregate we are able to get rough estimates of total cases.
+
+Because we are tracking the evolution of this epidemic over time, once you have completed the survey, please remember to come back and update the survey every day. And finally, you can help us by asking your friends, colleagues and relatives to complete the survey as well! Thank you!
+
 ### About the project
 
 The world is suffering from a pandemic called COVID-19, caused by the SARS-CoV-2 virus. The different national governments have problems evaluating the reach of the epidemic, having limited resources and tests to their disposal. Hence, any means to evaluate the number of persons with symptoms compatible with COVID-19 with reasonable level of accuracy is useful.
@@ -59,12 +65,7 @@ The world is suffering from a pandemic called COVID-19, caused by the SARS-CoV-2
 The objective of this study is the collection and publication of data concerning the number of people that show symptoms compatible with COVID-19 in different countries. Hopefully, this data will be useful to estimate the number of infected persons with the COVID-19 virus at a given point in time in these countries, and the evolution of this number over time.
 
 [Access to project details and the collected data](https://github.com/GCGImdea/coronasurveys){: .btn}
-
-### How can I help?
-
-Please complete our surveys! Choose a country in which you have contacts, and tell us about the number of cases (suspected or confirmed) you know about. No personal information is stored in these surveys. Because each of us can provide information about the situation among our direct contacts, in aggregate we are able to get rough estimates of total cases.
-
-Because we are tracking the evolution of this epidemic over time, once you have completed the survey, please remember to come back and update the survey every day. And finally, you can help us by asking your friends, colleagues and relatives to complete the survey as well! Thank you!
+[Reports and publications](info/publications/){: .btn}
 
 ### Follow us!
 
