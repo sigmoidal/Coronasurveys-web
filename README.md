@@ -43,6 +43,8 @@
 
 <a href="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=24&orgId=1&from=1583610808303" > <center><font size="2"><u>Click here if you can't see the table</u></font></center></a> 
 
+Source of data on confirmed cases and deaths: [European Centre for Disease Prevention and Control.](https://www.ecdc.europa.eu/en/covid-19-pandemic)
+
 (1) Hiroshi Nishiura et al. Early Epidemiological Assessment of the Virulence of Emerging Infectious Diseases: A Case Study of an Influenza Pandemic. Plos One. August 31, 2009. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006852>
 
 (2) Amy Maxmen. How much is coronavirus spreading under the radar? Nature News Explainer, March 13th, 2020. <https://www.nature.com/articles/d41586-020-00760-8>
@@ -55,11 +57,11 @@ The world is suffering from a pandemic called COVID-19, caused by the SARS-CoV-2
 
 The objective of this study is the collection and publication of data concerning the number of people that show symptoms compatible with COVID-19 in different countries. Hopefully, this data will be useful to estimate the number of infected persons with the COVID-19 virus at a given point in time in these countries, and the evolution of this number over time.
 
-[Access to project details](https://github.com/GCGImdea/coronasurveys){: .btn}
+[Access to project details and the collected data](https://github.com/GCGImdea/coronasurveys){: .btn}
 
 ### How can I help?
 
-Please complete one of our surveys! Choose your country of residence and tell us about the number of cases (suspected or confirmed) you know about. No personal information is stored in these surveys. Because each of us can provide information about the situation among our direct contacts, in aggregate we are able to get rough estimates of total cases.
+Please complete our surveys! Choose a country in which you have contacts, and tell us about the number of cases (suspected or confirmed) you know about. No personal information is stored in these surveys. Because each of us can provide information about the situation among our direct contacts, in aggregate we are able to get rough estimates of total cases.
 
 Because we are tracking the evolution of this epidemic over time, once you have completed the survey, please remember to come back and update the survey every day. And finally, you can help us by asking your friends, colleagues and relatives to complete the survey as well! Thank you!
 
