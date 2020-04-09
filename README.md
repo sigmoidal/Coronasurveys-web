@@ -2,6 +2,7 @@
 
 [Argentina](https://tinyurl.com/coronasurveysargentina){: .btn}
 [Australia](https://tinyurl.com/coronasurveysaustralia){: .btn}
+[Canada](https://tinyurl.com/coronasurveyscanada){: .btn}
 [Chile](https://tinyurl.com/coronasurveyschile){: .btn}
 [Cyprus](https://tinyurl.com/coronasurveyscyprus){: .btn}
 [Ecuador](https://tinyurl.com/coronasurveysecuador){: .btn}
