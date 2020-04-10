@@ -7,14 +7,12 @@
 [Cyprus](https://tinyurl.com/coronasurveyscyprus){: .btn}
 [Ecuador](https://tinyurl.com/coronasurveysecuador){: .btn}
 [France](https://tinyurl.com/coronasurveysfrance){: .btn}
-
 [Germany](https://tinyurl.com/coronasurveysgermany){: .btn}
 [Greece](https://tinyurl.com/coronasurveysgreece){: .btn}
 [Italy](https://tinyurl.com/coronasurveysitaly){: .btn}
 [Japan](https://tinyurl.com/coronasurveysjapan){: .btn}
 [Netherlands](https://tinyurl.com/coronasurveysnetherlands){: .btn}
 [Portugal](https://tinyurl.com/coronasurveysportugal){: .btn}
-
 [Spain](https://tinyurl.com/coronasurveysspain){: .btn}
 [Sweden](https://tinyurl.com/coronasurveyssweden){: .btn}
 [UK](https://tinyurl.com/coronasurveysuk){: .btn}
@@ -40,7 +38,26 @@
 
 (Updated daily)
 
-[Cyprus](https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?orgId=1&from=1583934918142&var-code=CY&var-country=Cyprus&panelId=10){: .btn}
+
+[Argentina](results/argentina){: .btn}
+[Australia](results/australia){: .btn}
+[Canada](results/canada){: .btn}
+[Chile](results/chile){: .btn}
+[Cyprus](results/cyprus){: .btn}
+[Ecuador](results/ecuador){: .btn}
+[France](results/france){: .btn}
+[Germany](results/germany){: .btn}
+[Greece](results/greece){: .btn}
+[Italy](results/italy){: .btn}
+[Japan](results/japan){: .btn}
+[Netherlands](results/netherlands){: .btn}
+[Portugal](results/portugal){: .btn}
+[Spain](results/spain){: .btn}
+[Sweden](results/sweden){: .btn}
+[UK](results/uk){: .btn}
+[Ukraine](results/ukraine){: .btn}
+[USA](results/usa){: .btn}
+[Venezuela](results/venezuela){: .btn}
 
 <iframe src="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=24&orgId=1&from=1583610808303" width="100%" height="500" frameborder="0">
 </iframe>
