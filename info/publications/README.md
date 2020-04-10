@@ -33,3 +33,7 @@
 - [La Sexta, Spain](https://www.lasexta.com/tecnologia-tecnoxplora/sinc/casos-conocidos-covid19-espana-son-solo-punta-iceberg_202004015e84a693e70eb3000151d9f4.html)
 - [El Universal, Spain](https://www.eluniversal.com.mx/ciencia-y-salud/ciencia/casos-detectados-de-coronavirus-son-apenas-la-punta-del-iceberg)
 - [iLeon, Spain](https://www.ileon.com/actualidad/106748/los-casos-conocidos-del-covid-19-en-espana-son-solo-la-punta-del-iceberg)
+
+### Portuguese
+
+- [Público, Portugal (April 9th, 2020)](https://www.publico.pt/2020/04/09/ciencia/noticia/covid19-equipa-11-paises-portugal-incluido-lanca-questionario-saber-sintomas-1911720)
