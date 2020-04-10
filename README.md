@@ -28,21 +28,21 @@
 ### Estimates obtained by @CoronaSurveys
 
 (Updated daily)
-<iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" width="100%" height="300" frameborder="0"></iframe> 
+<iframe src="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" width="100%" height="300" frameborder="0"></iframe> 
 
-<a href="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" > <center><font size="2"><u>Click here if you can't see the graph</u></font></center></a> 
+<a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" > <center><font size="2"><u>Click here if you can't see the graph</u></font></center></a> 
 
-<iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" width="100%" height="300" frameborder="0"></iframe>
+<iframe src="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" width="100%" height="300" frameborder="0"></iframe>
 
-<a href="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" > <center><font size="2"><u>Click here if you can't see the graph</u></font></center></a> 
+<a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" > <center><font size="2"><u>Click here if you can't see the graph</u></font></center></a> 
 
 ### Latest estimates per country
 
 (Updated daily)
-<iframe src="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=24&orgId=1&from=1583610808303" width="100%" height="500" frameborder="0">
+<iframe src="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=24&orgId=1&from=1583610808303" width="100%" height="500" frameborder="0">
 </iframe>
 
-<a href="https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=24&orgId=1&from=1583610808303" > <center><font size="2"><u>Click here if you can't see the table</u></font></center></a> 
+<a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=24&orgId=1&from=1583610808303" > <center><font size="2"><u>Click here if you can't see the table</u></font></center></a> 
 
 Source of data on confirmed cases and deaths: [European Centre for Disease Prevention and Control.](https://www.ecdc.europa.eu/en/covid-19-pandemic)
 
