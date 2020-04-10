@@ -39,6 +39,9 @@
 ### Latest estimates per country
 
 (Updated daily)
+
+[Cyprus](https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?orgId=1&from=1583934918142&var-code=CY&var-country=Cyprus&panelId=10){: .btn}
+
 <iframe src="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=24&orgId=1&from=1583610808303" width="100%" height="500" frameborder="0">
 </iframe>
 
