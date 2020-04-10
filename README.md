@@ -23,7 +23,7 @@
 [Rest of the World](https://tinyurl.com/coronasurveysworld){: .btn}
 
 
-### Estimates obtained by @CoronaSurveys
+### Estimates obtained by CoronaSurveys
 
 (Updated daily)
 <iframe src="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" width="100%" height="300" frameborder="0"></iframe> 
