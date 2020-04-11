@@ -107,4 +107,4 @@ You can also follow us on social networks and share our work:
 </a>
 
 [E-mail](mailto:coronasurveys@gmail.com){: .btn}
-..
+
