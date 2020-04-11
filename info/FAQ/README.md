@@ -34,4 +34,21 @@ Absolutely none.
 
 - We do want to request your health information. It is too personal.
 
-- Getting the aggregate information of your contacts allows us to reach a larger fraction of the population.
+- Getting the aggregate information of your contacts allows us to reach a larger fraction of the population. For instance, if we receive 100 responses each reporting about 100 persons, we have information of 10,000 people.
+
+### How often should I fill in the survey? 
+
+Ideally once a day even if your response does not change. This allows us to gain confidence in our data. If you cannot answer daily, please do so as often as possible. We ask you not to answer multiple times a day for the same geographical region. But you can answer once a day for different regions or countries.
+
+### What if I know people that fell ill and recovered. Should I count them? 
+
+Yes!
+
+### What if I know people that fell ill and died. Should I count them? 
+
+Yes, and please accept our condolences.
+
+### Should me and my spouse participate separately in the survey?
+
+Yes, please.
+
