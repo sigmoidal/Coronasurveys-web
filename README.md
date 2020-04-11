@@ -1,3 +1,5 @@
+[Frequently Asked Questions](info/FAQ/){: .btn}
+
 ### Contribute! Fill the anonymous survey for your country!
 
 [Argentina](https://tinyurl.com/coronasurveysargentina){: .btn}
