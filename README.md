@@ -51,6 +51,7 @@
 [France](https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?orgId=1&from=1583934918142&var-code=FR&var-country=France&panelId=10){: .btn}
 [Germany](https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?orgId=1&from=1583934918142&var-code=DE&var-country=Germany&panelId=10){: .btn}
 [Greece](https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?orgId=1&from=1583934918142&var-code=GR&var-country=Greece&panelId=10){: .btn}
+[Iran](https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?orgId=1&from=1583934918142&var-code=IR&var-country=Iran&panelId=10){: .btn}
 [Italy](https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?orgId=1&from=1583934918142&var-code=IT&var-country=Italy&panelId=10){: .btn}
 [Japan](https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?orgId=1&from=1583934918142&var-code=JP&var-country=Japan&panelId=10){: .btn}
 [Netherlands](https://covid19.algolysis.com/grafana/d-solo/G_Aw4CrZk/coronasurveys?orgId=1&from=1583934918142&var-code=NL&var-country=Netherlands&panelId=10){: .btn}
