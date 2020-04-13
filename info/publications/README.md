@@ -39,6 +39,7 @@
 
 ### Portuguese
 
+- [Jornal de Negócios, Portugal (April 13th, 2020](https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/numero-real-de-infetados-deve-ser-cinco-vezes-superior)
 - [Público, Portugal (April 9th, 2020)](https://www.publico.pt/2020/04/09/ciencia/noticia/covid19-equipa-11-paises-portugal-incluido-lanca-questionario-saber-sintomas-1911720)
 - [Rádio Renascença, Portugal (April 9th, 2020)](https://rr.sapo.pt/2020/04/09/mundo/covidografia-ou-medir-o-icebergue-sucedem-se-as-plataformas-que-fazem-contas-a-covid/noticia/188675/?utm_source=cxultimastag)
 - [TV Europa, Portugal (April 5th, 2020)](https://www.tveuropa.pt/noticias/espanha-pode-ter-varios-milhoes-de-pessoas-infetados-com-covid-19/)
