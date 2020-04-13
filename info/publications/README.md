@@ -17,6 +17,7 @@
 - [ABC, Spain (April 9th, 2020)](https://www.abc.es/ciencia/abci-pregunta-millon-cuantos-infectados-coronavirus-espana-y-dato-importante-202004090209_noticia.html?ref=https%3A%2F%2Ft.co%2FTcYXnIrWXN%3Famp%3D1)
 - [ABC, Spain (April 7th, 2020)](https://www.abc.es/ciencia/abci-tres-metodos-matematicos-estan-salvando-vidas-frente-coronavirus-202004062243_noticia.html#vca=rrss-inducido&vmc=undefined&vso=tw&vli=undefined)
 - [El Pitazo, Venezuela (April 7th, 2020)](https://elpitazo.net/tecnologia/investigadores-independientes-usan-encuesta-online-para-estimar-alcance-de-covid-19-en-venezuela/)
+- [Antena 3 Noticias, Spain (April 2nd, 2020)](https://www.antena3.com/noticias/sociedad/la-oms-advierte-que-es-fundamental-localizar-a-los-asintomaticos-de-coronavirus_202004025e85ec178188850001cdd793.html)
 - [madri+d, Spain (April 2nd, 2020)](https://www.madrimasd.org/notiweb/noticias/un-investigador-imdea-networks-cifra-en-mas-dos-millones-los-casos-sintomaticos-actuales-covid-19-en-espana#utm_source=notiweb_newsletter&utm_medium=email&utm_campaign=noti1_02apr20)
 - [IMDEA Networks Institute, Spain (April 2nd, 2020)](https://www.networks.imdea.org/whats-new/news/2020/international-team-led-researcher-imdea-networks-institute-counts-more-two)
 - [EFE, Spain (April 1st, 2020)](https://www.efe.com/efe/espana/destacada/un-estudio-cifra-en-mas-de-2-millones-los-casos-covid-19-espana/10011-4210630)
