@@ -1,17 +1,11 @@
 theme: jekyll-theme-cayman
 url: https://coronasurveys.org
 title: <a href="http://www.zina-studio.com/">
-         <img src="https://raw.githubusercontent.com/AugustoGarcia/Coronasurveys-web/master/assets/logo.jpg" 
+         <img src="https://github.com/GCGImdea/coronasurveys/blob/master/artwork/quixote_fights_corona.jpg" 
          height="100" width="200" style="text-align:left">
       </a> <br>
       <font size="5"> <span>&#64;</span>CoronaSurveys<span>&#58;</span> Monitoring the Incidence of COVID-19 via Open Surveys </font>
-description:  
-         The CoronaSurveys project is a collaborative endeavour from several universities and research institutes 
-         <a href="https://gcgimdea.github.io/Coronasurveys-web/info/team/" style="color:white"> (<u>team members</u>)</a>. 
-         Results present our estimations on the incidence of COVID-19 in the countries from which we have enough information. 
-         You can help by regularly completing the anonymous survey below.
-         <br><br>
-         
+description:
          <a href="https://www.networks.imdea.org/">
          <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/imdea-networks-positivo-color.jpg" height="50" width="100">
          </a> 
