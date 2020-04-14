@@ -13,7 +13,7 @@ https://www.medrxiv.org/content/10.1101/2020.03.09.20033183v1
 
 - Alberto Fernández.
 Coronavirus en España (I): Razones para Actuar con Urgencia y Contundencia.
-Medium, Marc h 15th, 2020.
+Medium, March 15th, 2020.
 https://medium.com/@albertofffernandez/coronavirus-en-espa%C3%B1a-i-razones-para-actuar-con-urgencia-y-contundencia-bba8eafa12f
 
 - Timothy W Russell et al. Using a delay-adjusted case fatality ratio to estimate under-reporting. CMMID Repository, March 22nd, 2020. https://cmmid.github.io/topics/covid19/severity/global_cfr_estimates.html
@@ -24,3 +24,6 @@ https://medium.com/@albertofffernandez/coronavirus-en-espa%C3%B1a-i-razones-para
 
 - Flaxman et al. Estimating the number of infections and the impact of nonpharmaceutical interventions on COVID-19 in 11 European countries. March 30th, 2020.
 https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-Europe-estimates-and-NPI-impact-30-03-2020.pdf
+
+- Christian Bommer, Sebastian Vollmer. Average detection rate of SARS-CoV-2 infections is estimated around six percent. April 2nd, 2020.
+http://www.uni-goettingen.de/de/document/download/ff656163edb6e674fdbf1642416a3fa1.pdf/Bommer%20&%20Vollmer%20(2020)%20COVID-19%20detection%20April%202nd.pdf
