@@ -28,5 +28,7 @@ The study is conducted by a team led by the Research Professor Antonio Fernandez
 
 ## Collaborators
 
-- Natalie Soto
 - Rodrigo Irarrazaval
+- Natalie Soto
+- Matias Spatz Fernández
+
