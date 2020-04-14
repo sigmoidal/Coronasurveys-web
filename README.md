@@ -8,7 +8,7 @@ You can help by regularly completing the anonymous survey.
          
 [Frequently Asked Questions](info/FAQ/){: .btn}
 
-### Contribute! Fill the anonymous survey for your country!
+### Contribute! Fill the anonymous survey for a country!
 
 [Argentina](https://tinyurl.com/coronasurveysargentina){: .btn}
 [Australia](https://tinyurl.com/coronasurveysaustralia){: .btn}
@@ -23,6 +23,7 @@ You can help by regularly completing the anonymous survey.
 [Italy](https://tinyurl.com/coronasurveysitaly){: .btn}
 [Japan](https://tinyurl.com/coronasurveysjapan){: .btn}
 [Netherlands](https://tinyurl.com/coronasurveysnetherlands){: .btn}
+[Nigeria](https://tinyurl.com/coronasurveysnigeria){: .btn}
 [Portugal](https://tinyurl.com/coronasurveysportugal){: .btn}
 [Spain](https://tinyurl.com/coronasurveysspain){: .btn}
 [Sweden](https://tinyurl.com/coronasurveyssweden){: .btn}
@@ -37,7 +38,7 @@ You can help by regularly completing the anonymous survey.
 ### Estimates obtained by CoronaSurveys
 
 (Updated daily)
-<iframe src="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" width="100%" height="500" frameborder="0"></iframe> 
+<iframe src="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" width="100%" height="300" frameborder="0"></iframe> 
 
 <a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" > <center><font size="2"><u>Click here if you can't see the graph</u></font></center></a> 
 
@@ -49,7 +50,7 @@ You can help by regularly completing the anonymous survey.
 
 (Updated daily)
 
-<iframe src="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen" width="100%" height="300" frameborder="0"></iframe>
+<iframe src="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen" width="100%" height="500" frameborder="0"></iframe>
 
 <a href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen" > <center><font size="2"><u>Click here if you can't see the graph</u></font></center></a> 
 
@@ -66,6 +67,7 @@ You can help by regularly completing the anonymous survey.
 [Italy](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=IT&var-country=Italy){: .btn}
 [Japan](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=JP&var-country=Japan){: .btn}
 [Netherlands](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=NL&var-country=Netherlands){: .btn}
+[Nigeria](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=NG&var-country=Nigeria){: .btn}
 [Portugal](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=PT&var-country=Portugal){: .btn}
 [Spain](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=ES&var-country=Spain){: .btn}
 [Sweden](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=SE&var-country=Sweden){: .btn}
