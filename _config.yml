@@ -44,7 +44,6 @@ github:
 plugins:
 - github-pages
 - jekyll-github-metadata
-- jekyll-mentions
 - jekyll-redirect-from
 - jekyll-sitemap
 - jemoji
