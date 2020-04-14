@@ -40,7 +40,7 @@ Absolutely none.
 
 Ideally once a day even if your response does not change. This allows us to gain confidence in our data. If you cannot answer daily, please do so as often as possible. We ask you not to answer multiple times a day for the same geographical region. But you can answer once a day for different regions or countries.
 
-### What if there are overlaps in answers; people that know some fraction of people in common. Does it impact que estimate?
+### What if there are overlaps in answers; people that know some fraction of people in common. Does it impact the estimate?
 
 Actually, overlaps are not critical since we are surveying a ratio and not absolute numbers. If we sample enough data and have a good distribution among the population, we can converge to the true value. We have conducted an experiment in a synthetic social network with the population of Portugal (10 Million) and an infection rate of 0.75% and quickly approached the correct value even with extensive overlapping while under uniform sampling.
 
