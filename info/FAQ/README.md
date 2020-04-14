@@ -44,6 +44,8 @@ Ideally once a day even if your response does not change. This allows us to gain
 
 Actually, overlaps are not critical since we are surveying a ratio and not absolute numbers. If we sample enough data and have a good distribution among the population, we can converge to the true value. We have conducted an experiment in a synthetic social network with the population of Portugal (10 Million) and an infection rate of 0.75% and quickly approached the correct value even with extensive overlapping while under uniform sampling.
 
+![image](Overlap.png)
+
 ### What if I know people that fell ill and recovered. Should I count them? 
 
 Yes!
