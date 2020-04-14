@@ -1,3 +1,8 @@
+The CoronaSurveys project is a collaborative endeavour from several universities and research institutions
+([team members](https://gcgimdea.github.io/Coronasurveys-web/info/team/)).
+The shown results present our estimations on the incidence of COVID-19 in the countries from which we have enough information. 
+You can help by regularly completing the anonymous survey below.
+         
 [Frequently Asked Questions](info/FAQ/){: .btn}
 
 ### Contribute! Fill the anonymous survey for your country!
