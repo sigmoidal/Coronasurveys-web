@@ -12,7 +12,7 @@ The study is conducted by a team led by the Research Professor Antonio Fernandez
 - Angeliki Gazi, Panteion University of Social and Political Sciences, Greece
 - Chryssis Georgiou, U. Cyprus, Cyprus
 - Benjamin Girault, USC, USA
-- Mathieu Goessens, Consunting, France
+- Mathieu Goessens, Consulting, France
 - Rosa Lillo, UC3M, Spain
 - Raquel Menezes, U. Minho, Portugal
 - Esteban Moro, UC3M & MIT, Spain & USA
