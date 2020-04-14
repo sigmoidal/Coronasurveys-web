@@ -1,4 +1,4 @@
-### @CoronaSurveys Project Summary
+### CoronaSurveys Project Summary
 
 The CoronaSurveys project is a collaborative endeavour from several universities and research institutions
 ([team members](https://gcgimdea.github.io/Coronasurveys-web/info/team/)).
