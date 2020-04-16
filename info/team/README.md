@@ -13,6 +13,8 @@ The study is conducted by a team led by the Research Professor Antonio Fernandez
 - Chryssis Georgiou, U. Cyprus, Cyprus
 - Benjamin Girault, USC, USA
 - Mathieu Goessens, Consulting, France
+- Anna Ishchenko, Igor Sikorsky Kyiv Polytechnic Institute, Ukraine
+- Oleksiy Kebkal, EvoLogics, Germany
 - Rosa Lillo, UC3M, Spain
 - Raquel Menezes, U. Minho, Portugal
 - Esteban Moro, UC3M & MIT, Spain & USA
