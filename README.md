@@ -50,9 +50,9 @@ You can help by regularly completing the anonymous survey.
 
 (Updated daily)
 
-<iframe src="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=NG&var-country=Nigeria" width="100%" height="500" frameborder="0"></iframe>
 
-<a href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen" > <center><font size="2"><u>Click here if you can't see the graph</u></font></center></a> 
+<a href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=NG&var-country=Nigeria" > <center><font size="2"><u>Click here if you can't see the graph</u></font></center></a> 
 
 [Argentina](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=AR&var-country=Argentina){: .btn}
 [Australia](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=AU&var-country=Australia){: .btn}
