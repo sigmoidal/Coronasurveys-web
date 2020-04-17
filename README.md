@@ -23,6 +23,7 @@ You can help by regularly completing the anonymous survey.
 [Iran](https://tinyurl.com/coronasurveysiran){: .btn}
 [Italy](https://tinyurl.com/coronasurveysitaly){: .btn}
 [Japan](https://tinyurl.com/coronasurveysjapan){: .btn}
+[Lebanon](https://tinyurl.com/coronasurveyslebanon){: .btn}
 [Netherlands](https://tinyurl.com/coronasurveysnetherlands){: .btn}
 [Nigeria](https://tinyurl.com/coronasurveysnigeria){: .btn}
 [Portugal](https://tinyurl.com/coronasurveysportugal){: .btn}
@@ -33,6 +34,7 @@ You can help by regularly completing the anonymous survey.
 [USA](https://tinyurl.com/coronasurveysusa){: .btn}
 [Venezuela](https://tinyurl.com/coronasurveysvenezuela){: .btn}
 
+[Arab Countries](https://tinyurl.com/coronasurveysarabworld){: .btn}
 [Rest of the World](https://tinyurl.com/coronasurveysworld){: .btn}
 
 
@@ -68,6 +70,7 @@ You can help by regularly completing the anonymous survey.
 [Iran](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=IR&var-country=Iran&var-region=All){: .btn}
 [Italy](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=IT&var-country=Italy&var-region=All){: .btn}
 [Japan](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=JP&var-country=Japan&var-region=All){: .btn}
+[Lebanon](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=LB&var-country=Lebanon&var-region=All){: .btn}
 [Netherlands](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=NL&var-country=Netherlands&var-region=All){: .btn}
 [Nigeria](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=NG&var-country=Nigeria&var-region=All){: .btn}
 [Portugal](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=PT&var-country=Portugal&var-region=All){: .btn}
