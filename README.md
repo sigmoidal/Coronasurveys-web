@@ -10,32 +10,32 @@ You can help by regularly completing the anonymous survey.
 
 ### Contribute! Fill the anonymous survey for a country!
 
-[Argentina](https://tinyurl.com/coronasurveysargentina){: .btn}
-[Australia](https://tinyurl.com/coronasurveysaustralia){: .btn}
-[Canada](https://tinyurl.com/coronasurveyscanada){: .btn}
-[Chile](https://tinyurl.com/coronasurveyschile){: .btn}
-[Cyprus](https://tinyurl.com/coronasurveyscyprus){: .btn}
-[Ecuador](https://tinyurl.com/coronasurveysecuador){: .btn}
-[France](https://tinyurl.com/coronasurveysfrance){: .btn}
-[Germany](https://tinyurl.com/coronasurveysgermany){: .btn}
-[Greece](https://tinyurl.com/coronasurveysgreece){: .btn}
-[Indonesia](https://tinyurl.com/coronasurveysindonesia){: .btn}
-[Iran](https://tinyurl.com/coronasurveysiran){: .btn}
-[Italy](https://tinyurl.com/coronasurveysitaly){: .btn}
-[Japan](https://tinyurl.com/coronasurveysjapan){: .btn}
-[Lebanon](https://tinyurl.com/coronasurveyslebanon){: .btn}
-[Netherlands](https://tinyurl.com/coronasurveysnetherlands){: .btn}
-[Nigeria](https://tinyurl.com/coronasurveysnigeria){: .btn}
-[Portugal](https://tinyurl.com/coronasurveysportugal){: .btn}
-[Spain](https://tinyurl.com/coronasurveysspain){: .btn}
-[Sweden](https://tinyurl.com/coronasurveyssweden){: .btn}
-[UK](https://tinyurl.com/coronasurveysuk){: .btn}
-[Ukraine](https://tinyurl.com/coronasurveysukraine){: .btn}
-[USA](https://tinyurl.com/coronasurveysusa){: .btn}
-[Venezuela](https://tinyurl.com/coronasurveysvenezuela){: .btn}
+[Argentina-Spanish](https://tinyurl.com/coronasurveysargentina){: .btn}
+[Australia-English](https://tinyurl.com/coronasurveysaustralia){: .btn}
+[Canada-English](https://tinyurl.com/coronasurveyscanada){: .btn}
+[Chile-Spanish](https://tinyurl.com/coronasurveyschile){: .btn}
+[Cyprus-Greek](https://tinyurl.com/coronasurveyscyprus){: .btn}
+[Ecuador-Spanish](https://tinyurl.com/coronasurveysecuador){: .btn}
+[France-French](https://tinyurl.com/coronasurveysfrance){: .btn}
+[Germany-German](https://tinyurl.com/coronasurveysgermany){: .btn}
+[Greece-Greek](https://tinyurl.com/coronasurveysgreece){: .btn}
+[Indonesia-Indonesian](https://tinyurl.com/coronasurveysindonesia){: .btn}
+[Iran-Persian](https://tinyurl.com/coronasurveysiran){: .btn}
+[Italy-Italian](https://tinyurl.com/coronasurveysitaly){: .btn}
+[Japan-Japanese](https://tinyurl.com/coronasurveysjapan){: .btn}
+[Lebanon-Arabic](https://tinyurl.com/coronasurveyslebanon){: .btn}
+[Netherlands-English](https://tinyurl.com/coronasurveysnetherlands){: .btn}
+[Nigeria-English](https://tinyurl.com/coronasurveysnigeria){: .btn}
+[Portugal-Portuguese](https://tinyurl.com/coronasurveysportugal){: .btn}
+[Spain-Spanish](https://tinyurl.com/coronasurveysspain){: .btn}
+[Sweden-English](https://tinyurl.com/coronasurveyssweden){: .btn}
+[UK-English](https://tinyurl.com/coronasurveysuk){: .btn}
+[Ukraine-Ukrainian](https://tinyurl.com/coronasurveysukraine){: .btn}
+[USA-English](https://tinyurl.com/coronasurveysusa){: .btn}
+[Venezuela-Spanish](https://tinyurl.com/coronasurveysvenezuela){: .btn}
 
-[Arab Countries](https://tinyurl.com/coronasurveysarabworld){: .btn}
-[Rest of the World](https://tinyurl.com/coronasurveysworld){: .btn}
+[Arab Countries-Arabic](https://tinyurl.com/coronasurveysarabworld){: .btn}
+[Rest of the World-English](https://tinyurl.com/coronasurveysworld){: .btn}
 
 
 ### Estimates obtained by CoronaSurveys
