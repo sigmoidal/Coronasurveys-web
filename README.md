@@ -19,6 +19,7 @@ You can help by regularly completing the anonymous survey.
 [France](https://tinyurl.com/coronasurveysfrance){: .btn}
 [Germany](https://tinyurl.com/coronasurveysgermany){: .btn}
 [Greece](https://tinyurl.com/coronasurveysgreece){: .btn}
+[Indonesia](https://tinyurl.com/coronasurveysindonesia){: .btn}
 [Iran](https://tinyurl.com/coronasurveysiran){: .btn}
 [Italy](https://tinyurl.com/coronasurveysitaly){: .btn}
 [Japan](https://tinyurl.com/coronasurveysjapan){: .btn}
@@ -63,6 +64,7 @@ You can help by regularly completing the anonymous survey.
 [France](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=FR&var-country=France&var-region=All){: .btn}
 [Germany](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=DE&var-country=Germany&var-region=All){: .btn}
 [Greece](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=GR&var-country=Greece&var-region=All){: .btn}
+[Indonesia](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=ID&var-country=Indonesia&var-region=All){: .btn}
 [Iran](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=IR&var-country=Iran&var-region=All){: .btn}
 [Italy](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=IT&var-country=Italy&var-region=All){: .btn}
 [Japan](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=JP&var-country=Japan&var-region=All){: .btn}
