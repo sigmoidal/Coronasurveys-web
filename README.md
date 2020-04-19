@@ -5,7 +5,48 @@ The CoronaSurveys project is a collaborative endeavour from several universities
 via anonymous open surveys ([all the data collected is openly available](https://github.com/GCGImdea/coronasurveys/tree/master/data/)).
 The results below present estimations on the incidence of COVID-19 from this and other available data. 
 You can help by regularly completing the anonymous survey.
-         
+   
+<div class="logos-main">
+	<!-- mgoessen@: Markdown interpretation is disabled within HTML tags, thus, we go raw HTML -->
+         <a href="https://www.networks.imdea.org/">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/imdea-networks-positivo-color.jpg" height="50" width="100">
+         </a> 
+         <a href="https://www.ucy.ac.cy/en/">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/University_of_Cyprus_2gr.jpg" height="50" width="150">
+         </a> 
+         <a href="https://www.algolysis.com/">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg" height="50" width="150">
+         </a> 
+         <a href="https://viterbischool.usc.edu/">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/Formal_Viterbi_CardOnWhite.jpg" height="50" width="130">
+         </a> 
+         <a href="https://www.tu-darmstadt.de/index.en.jsp">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/tud_logo.png" height="50" width="120">
+         </a> 
+         <a href="https://www.tuat.ac.jp/en/">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/tat_2.png" height="50" width="100">
+         </a> 
+         <a href="https://www.ed.ac.uk/informatics">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/InformaticsUni_transparent.gif" height="50" width="180">
+         </a> 
+         <a href="https://www.uminho.pt/EN">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/UMinho.png" height="50" width="100">
+         </a> 
+         <a href="https://www.inesctec.pt/en">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/inesctec.jpg" height="45" width="110">
+         </a> 
+         <a href="https://www.unitn.it/en/">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/newlogo_unitn_it.png" height="50" width="160">
+         </a> 
+         <a href="https://www.washington.edu/">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/Logo-UW.png" height="50">
+         </a> 
+         <a href="https://www.washington.edu/">
+         <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/IBIDat-logo-name-v.svg.png" height="50">
+         </a>
+</div>
+
+      
 [Frequently Asked Questions](info/FAQ/){: .btn}
 
 ### Contribute! Fill the anonymous survey for a country!
