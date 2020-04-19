@@ -6,7 +6,7 @@ via anonymous open surveys ([all the data collected is openly available](https:/
 The results below present estimations on the incidence of COVID-19 from this and other available data. 
 You can help by regularly completing the anonymous survey.
    
-<div class="logos-main">
+<div id="logos-main">
 	<!-- mgoessen@: Markdown interpretation is disabled within HTML tags, thus, we go raw HTML -->
          <a href="https://www.networks.imdea.org/">
          <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/imdea-networks-positivo-color.jpg" height="50" width="100">
