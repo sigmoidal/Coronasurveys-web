@@ -70,6 +70,7 @@ You can help by regularly completing the anonymous survey.
 [Portugal-Portuguese](https://tinyurl.com/coronasurveysportugal){: .btn}
 [Spain-Spanish](https://tinyurl.com/coronasurveysspain){: .btn}
 [Sweden-English](https://tinyurl.com/coronasurveyssweden){: .btn}
+[Turkey-Turkish](https://tinyurl.com/coronasurveysturkey){: .btn}
 [UK-English](https://tinyurl.com/coronasurveysuk){: .btn}
 [Ukraine-Ukrainian](https://tinyurl.com/coronasurveysukraine){: .btn}
 [USA-English](https://tinyurl.com/coronasurveysusa){: .btn}
@@ -117,6 +118,7 @@ You can help by regularly completing the anonymous survey.
 [Portugal](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=PT&var-country=Portugal&var-region=All){: .btn}
 [Spain](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=ES&var-country=Spain&var-region=All){: .btn}
 [Sweden](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=SE&var-country=Sweden&var-region=All){: .btn}
+[Turkey](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=TR&var-country=Turkey&var-region=All){: .btn}
 [UK](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=GB&var-country=UK&var-region=All){: .btn}
 [Ukraine](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=UA&var-country=Ukraine&var-region=All){: .btn}
 [USA](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=US&var-country=USA&var-region=All){: .btn}
