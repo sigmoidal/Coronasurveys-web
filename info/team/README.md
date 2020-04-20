@@ -30,9 +30,11 @@ The study is conducted by a team led by the Research Professor Antonio Fernandez
 
 ## Collaborators
 
+- Elisa Cabana
+- Harold Hernández
 - Rodrigo Irarrazaval
+- Alvaro Méndez
 - Erol Sahin
 - Ghadi Sebaali
 - Natalie Soto
 - Matias Spatz Fernández
-
