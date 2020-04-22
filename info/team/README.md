@@ -2,6 +2,7 @@
 
 The study is conducted by a team led by the Research Professor Antonio Fernandez Anta, and formed by a set of international researchers from multiple institutions:
 
+- Payman Arabshahi, University of Washington, USA
 - Carlos Baquero, U. Minho & INESC TEC, Portugal
 - Annette Bieniusa, U. Kaiserslautern, Germany
 - Paolo Casari, University of Trento, Italy
@@ -11,6 +12,10 @@ The study is conducted by a team led by the Research Professor Antonio Fernandez
 - Angeliki Gazi, Panteion University of Social and Political Sciences, Greece
 - Chryssis Georgiou, U. Cyprus, Cyprus
 - Benjamin Girault, USC, USA
+- Mathieu Goessens, Consulting, France
+- Anna Ishchenko, Igor Sikorsky Kyiv Polytechnic Institute, Ukraine
+- Oleksiy Kebkal, EvoLogics, Germany
+- Rosa Lillo, UC3M, Spain
 - Raquel Menezes, U. Minho, Portugal
 - Esteban Moro, UC3M & MIT, Spain & USA
 - Nicolas Nicolaou, Algolysis Ltd, Cyprus
@@ -25,6 +30,11 @@ The study is conducted by a team led by the Research Professor Antonio Fernandez
 
 ## Collaborators
 
-- Natalie Soto
+- Elisa Cabana
+- Harold Hernández
 - Rodrigo Irarrazaval
-- Mathieu Goessens
+- Alvaro Méndez
+- Erol Sahin
+- Ghadi Sebaali
+- Natalie Soto
+- Matias Spatz Fernández

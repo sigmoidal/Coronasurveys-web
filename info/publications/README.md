@@ -13,10 +13,13 @@
 
 ### Spanish
 
+- [COPE, Spain (April 12th, 2020)](https://www.cope.es/programas/tiempo-de-juego/amp/audios/coronasurveys-encuesta-que-busca-monitorizar-los-enfermos-covid-19-20200412_1072108)
 - [ABC, Spain (April 9th, 2020)](https://www.abc.es/ciencia/abci-pregunta-millon-cuantos-infectados-coronavirus-espana-y-dato-importante-202004090209_noticia.html?ref=https%3A%2F%2Ft.co%2FTcYXnIrWXN%3Famp%3D1)
 - [ABC, Spain (April 7th, 2020)](https://www.abc.es/ciencia/abci-tres-metodos-matematicos-estan-salvando-vidas-frente-coronavirus-202004062243_noticia.html#vca=rrss-inducido&vmc=undefined&vso=tw&vli=undefined)
 - [El Pitazo, Venezuela (April 7th, 2020)](https://elpitazo.net/tecnologia/investigadores-independientes-usan-encuesta-online-para-estimar-alcance-de-covid-19-en-venezuela/)
+- [Antena 3 Noticias, Spain (April 2nd, 2020)](https://www.antena3.com/noticias/sociedad/la-oms-advierte-que-es-fundamental-localizar-a-los-asintomaticos-de-coronavirus_202004025e85ec178188850001cdd793.html)
 - [madri+d, Spain (April 2nd, 2020)](https://www.madrimasd.org/notiweb/noticias/un-investigador-imdea-networks-cifra-en-mas-dos-millones-los-casos-sintomaticos-actuales-covid-19-en-espana#utm_source=notiweb_newsletter&utm_medium=email&utm_campaign=noti1_02apr20)
+- [IMDEA Networks Institute, Spain (April 2nd, 2020)](https://www.networks.imdea.org/whats-new/news/2020/international-team-led-researcher-imdea-networks-institute-counts-more-two)
 - [EFE, Spain (April 1st, 2020)](https://www.efe.com/efe/espana/destacada/un-estudio-cifra-en-mas-de-2-millones-los-casos-covid-19-espana/10011-4210630)
 - [EFE, Spain (April 1st, 2020)](https://www.efe.com/efe/espana/efefuturo/un-estudio-cifra-en-mas-de-2-millones-los-casos-covid-19-espana/50000905-4210665?fbclid=IwAR1OHlWSJbjdM7LPDmAYMbMllTxDhrQr_hid_yR5d9Z1zZalCvjyWjti4fw)
 - [El Pais, Spain (March 25th, 2020)](https://elpais.com/politica/2020/03/24/actualidad/1585077503_994849.html)
@@ -36,6 +39,13 @@
 
 ### Portuguese
 
+- [Bip INESC TEC, Portugal (April 15th, 2020)](http://bip.inesctec.pt/en/noticias/inesc-tec-researcher-takes-part-in-international-study-to-determine-the-incidence-of-the-pandemic/)
+- [Jornal de Negócios, Portugal (April 13th, 2020)](https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/numero-real-de-infetados-deve-ser-cinco-vezes-superior)
 - [Público, Portugal (April 9th, 2020)](https://www.publico.pt/2020/04/09/ciencia/noticia/covid19-equipa-11-paises-portugal-incluido-lanca-questionario-saber-sintomas-1911720)
 - [Rádio Renascença, Portugal (April 9th, 2020)](https://rr.sapo.pt/2020/04/09/mundo/covidografia-ou-medir-o-icebergue-sucedem-se-as-plataformas-que-fazem-contas-a-covid/noticia/188675/?utm_source=cxultimastag)
 - [TV Europa, Portugal (April 5th, 2020)](https://www.tveuropa.pt/noticias/espanha-pode-ter-varios-milhoes-de-pessoas-infetados-com-covid-19/)
+
+### German
+
+- [KOM Group, Germany (April 9th, 2020)](https://blog.multimedia-communications.net/dieser-neue-corona-test-zaehlt-buchstaeblich/)
+
