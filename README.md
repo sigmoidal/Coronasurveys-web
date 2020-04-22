@@ -41,7 +41,7 @@ You can help by regularly completing the anonymous survey.
          <a href="https://www.washington.edu/">
          <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/Logo-UW.png" height="50">
          </a> 
-         <a href="https://www.washington.edu/">
+         <a href="https://www.ibidat.es">
          <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/IBIDat-logo-name-v.svg.png" height="50">
          </a>
 </div>
